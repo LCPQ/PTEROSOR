@@ -1,10 +1,12 @@
 diff --git a/config.toml b/config.toml
-index 88ba656e..5d97890c 100644
+index e38a47a..5a24a7f 100644
 --- a/config.toml
 +++ b/config.toml
-@@ -1,2 +1,2 @@
+@@ -1,5 +1,5 @@
 -baseURL = "http://localhost:1313/PTEROSOR/"
 -#baseURL = "https://lcpq.github.io/PTEROSOR/"
 +#baseURL = "http://localhost:1313/PTEROSOR/"
 +baseURL = "https://lcpq.github.io/PTEROSOR/"
-
+ canonifyurls  = true
+ languageCode = "en-us"
+ title = "ERC PTEROSOR"
