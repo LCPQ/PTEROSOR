@@ -4,26 +4,55 @@ date: 2019-09-30 11:30
 draft: false
 ---
 
+## People funded by the ERC
+
 # Pierre-François Loos
-Chargé de Recherche (CNRS)
+CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 # Michel Caffarel
-Directeur de Recherche (CNRS)
+CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 # Anthony Scemama
-HPC research engineer at LCPQ
+CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 # Fabris Kossoski
 Postdoc, ERC
 
+# Enzo Monino 
+PhD Student, ERC
+
+## Other group members
+
 # Mickael Véril 
-PhD student, UPS
+PhD Student UPS
 
 # Clotilde Marut 
-PhD student, UPS
-
-# Enzo Monino 
-PhD student, ERC
+PhD Student, UPS
 
 # Roberto Orlando 
-PhD student, 80|PRIME
+PhD Student, 80|PRIME
+
+# Antoine Marie
+Master Student, ENS Lyon
+
+## CollaboratorsA
+
+# Hugh Burton
+Research Fellow (Oxford, UK)
+
+# Denis Jacqumein
+Professor (University of Nantes, Nantes, France)
+
+# Xavier Blase
+CNRS Researcher (NEEL institute, Grenoble, France)
+
+# Martial Boggio-Pasqua
+CNRS Researcher (LCPQ)
+
+# Pina Romaniello
+CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
+
+# Arjan Berger
+Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+
+
