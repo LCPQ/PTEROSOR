@@ -2,11 +2,11 @@ baseURL = "http://localhost:1313/PTEROSOR/"
 #baseURL = "https://lcpq.github.io/PTEROSOR/"
 canonifyurls  = true
 languageCode = "en-us"
-title = "ERC PTEROSOR"
+title = "PT-symmetric electronic structure theory"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
 [Params]
-  hometitle = "PT-symmetric electronic structure theory"
+  hometitle = "ERC PTEROSOR"
   logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
