@@ -38,16 +38,16 @@ Master Student, ENS Lyon
 # Collaborators
 
 ### Hugh Burton
-Research Fellow (Oxford, UK)
+Research Fellow (University of Oxford, Oxford, UK)
 
-### Denis Jacqumein
+### Denis Jacqumenin
 Professor (University of Nantes, Nantes, France)
 
 ### Xavier Blase
 CNRS Researcher (NEEL institute, Grenoble, France)
 
 ### Martial Boggio-Pasqua
-CNRS Researcher (LCPQ)
+CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 ### Pina Romaniello
 CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
