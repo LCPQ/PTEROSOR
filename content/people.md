@@ -55,19 +55,19 @@ Master Student, ENS Lyon
 <li><b> <a href="https://www.hughburton.com">Hugh Burton</a></b>
 Research Fellow (University of Oxford, Oxford, UK)
 
-<li><b> <a href="https://www.hughburton.com">Denis Jacquemin</a></b>
+<li><b> <a href="https://www.univ-nantes.fr/denis-jacquemin">Denis Jacquemin</a></b>
 Professor (University of Nantes, Nantes, France)
 
-<li><b> <a href="https://www.hughburton.com">Xavier Blase</a></b>
+<li><b> <a href="http://perso.neel.cnrs.fr/xavier.blase/">Xavier Blase</a></b>
 CNRS Researcher (NEEL institute, Grenoble, France)
 
-<li><b> <a href="https://www.hughburton.com">Martial Boggio-Pasqua</a></b>
+<li><b> <a href="https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr">Martial Boggio-Pasqua</a></b>
 CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
-<li><b> <a href="https://www.hughburton.com">Pina Romaniello</a></b>
+<li><b> <a href="http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en">Pina Romaniello</a></b>
 CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
-<li><b> <a href="https://www.hughburton.com">Arjan Berger</a></b>
+<li><b> <a href="https://www.lcpq.ups-tlse.fr/spip.php?rubrique381&lang=en">Arjan Berger</a></b>
 Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 </ul>
 
