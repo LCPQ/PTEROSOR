@@ -24,10 +24,3 @@ Processes related to electronically excited states are central in chemistry, phy
 This project has received funding from the [European Research Council (ERC)](https://erc.europa.eu)
 under the European Union's Horizon 2020 research and innovation programme (Grant agreement No. 863481).
 
-<div id="sidebar">
-
-
-<a class="twitter-timeline" data-lang="en" data-width="220" data-height="400" href="https://twitter.com/TitouLoos?ref_src=twsrc%5Etfw">Tweets by TitouLoos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
-
