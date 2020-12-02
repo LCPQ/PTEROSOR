@@ -6,7 +6,7 @@ draft: false
 
 # People funded by the ERC
 
-### Pierre-François Loos
+### <a href="https://www.irsamc.ups-tlse.fr/loos/">Pierre-François Loos</a>
 CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 P.-F. Loos received his Ph.D. in Computational and Theoretical Chemistry from the Université Henri Poincaré (Nancy, France) in 2008. From 2009 to 2013, He was undertaking postdoctoral research with Peter M.W. Gill at the Australian National University (ANU). From 2013 to 2017, he was a "Discovery Early Career Researcher Award" recipient and, then, a senior lecturer at the ANU. Since 2017, he holds a researcher position from the "Centre National de la Recherche Scientifique" (CNRS) at the

@@ -61,4 +61,22 @@ title = "PT-symmetric electronic structure theory"
     url = "https://quantumpackage.github.io/qp2"
     weight = 2
 
+[[menu.main]]
+    parent="external"
+    name = "European Research Council"
+    url = "https://erc.europa.eu"
+    weight = 3
+
+[[menu.main]]
+    parent="external"
+    name = "arXiv"
+    url = "https://arxiv.org"
+    weight = 4
+
+[[menu.main]]
+    parent="external"
+    name = "HAL"
+    url = "https://hal.archives-ouvertes.fr"
+    weight = 5
+
 
