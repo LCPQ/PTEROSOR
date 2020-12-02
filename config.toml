@@ -4,14 +4,14 @@ canonifyurls  = true
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
-title = "ERC PTEROSOR: new methodologies for excited states"
+title = "PT-symmetric electronic structure theory"
 [Params]
-  hometitle = "PT-symmetric electronic structure theory"
+  hometitle = "ERC PTEROSOR"
   logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
   src = "img/banner.png"
-  desc = "PT-symmetric electronic structure theory"
+  desc = "new methodologies for excited states"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
