@@ -21,7 +21,7 @@ theme = "beautifulhugo"
   email = "loos@irsamc.ups-tlse.fr"
   github = "LCPQ"
   twitter = "PTEROSOR"
-  youtube = "PTEROSOR"
+  youtube = "https://www.youtube.com/channel/UCPUtUMqEM3K5sYcMJGTd_Bg"
 
 [[menu.main]]
     name = "Home"
