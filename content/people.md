@@ -5,10 +5,10 @@ draft: false
 ---
 
 # Pierre-François Loos
-bla bla
+Chargé de Recherche (CNRS)
 
 # Michel Caffarel
-bla bla
+Directeur de Recherche (CNRS)
 
 # Anthony Scemama
 HPC research engineer at LCPQ
