@@ -1,11 +1,8 @@
-default: data
+default: 
 	hugo
 
-serve: data
+serve: 
 	hugo -D server
 
 clean:
 	rm -rf public
-
-data:
-	python3 tools/generate_data.py
