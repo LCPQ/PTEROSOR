@@ -1,0 +1,51 @@
+---
+title: "Publications"
+date: 2019-09-30 11:30
+draft: false
+---
+
+<script>
+    window.onload = async function () {
+
+        /* Get list of publication */
+        pub = await fetch('https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,author_s,authFullName_s,journal_s,label_bibtex,doiId_s,publicationDateY_i,publicationDate_tdate&group=false&start=0&rows=10000&fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&sort=publicationDate_tdate%20desc').then(function (response) {
+            return response.json();
+        }).then(function (response) {
+            return response.response.docs;
+        });
+        console.log(pub);
+        
+
+        /* Display list of publications */
+        listContainer = document.createElement('div'),
+        listElement = document.createElement('ul'),
+        document.getElementsByTagName('article')[0].appendChild(listContainer);
+        listContainer.appendChild(listElement);
+        
+        for (i in pub) {
+            title = pub[i].title_s;
+            arxivId  = pub[i].arxivId_s;
+            citationRef = pub[i].citationRef_s;
+            try {
+                url = pub[i].files_s[0];
+            } catch (error) {
+                url = ""
+            };
+            authors = pub[i].authFullName_s[0];
+            for (j=1 ; j < pub[i].authFullName_s.length ; j++) {
+                authors += ", " + pub[i].authFullName_s[j];
+            }
+            
+            listItem = document.createElement('li');
+            listItem.innerHTML =
+                "<h3><a href=\"" + url + "\">" + title + "</a><br></h3>"
+                + "<div><p>" + authors + "</div>"
+                + "<div><p> " + citationRef 
+                + ", <a href=\"https://arxiv.org/abs/" + arxivId + "\">arXiv:" + arxivId + "</a>"
+                + "</div>"
+                + pub[i].abstract_s;
+            listElement.appendChild(listItem);
+
+        }
+    }
+</script>

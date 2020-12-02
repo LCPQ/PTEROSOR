@@ -1,0 +1,43 @@
+---
+title: "Software"
+date: 2019-09-30 11:30
+draft: false
+---
+
+<script>
+    window.onload = async function () {
+
+        /* Get list of repositories */
+        var proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+        var targetUrl = 'https://git.irsamc.ups-tlse.fr/api/v1/orgs/pterosor/repos';
+        software = await fetch(proxyUrl + targetUrl).then(function (response) {
+            return response.json();
+        }).then(function (response) {
+            return response;
+        });
+        
+
+        /* Display list of repositories */
+        listContainer = document.createElement('div'),
+        listElement = document.createElement('ul'),
+        document.getElementsByTagName('article')[0].appendChild(listContainer);
+        listContainer.appendChild(listElement);
+        
+        for (repo in software) {
+            if (software[repo].mirror) {
+                name = software[repo].full_name.split('/')[1];
+                description = software[repo].description;
+                url = software[repo].website;
+                if (url == "")
+                    url = software[repo].html_url;
+
+                listItem = document.createElement('li');
+                listItem.innerHTML =
+                    "<a href=\"" + url + "\">" + name + "</a><br>"
+                    + description;
+                listElement.appendChild(listItem);
+
+            }
+        }
+    }
+</script>
