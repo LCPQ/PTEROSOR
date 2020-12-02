@@ -2,9 +2,9 @@ baseURL = "http://localhost:1313/PTEROSOR/"
 #baseURL = "https://lcpq.github.io/PTEROSOR/"
 canonifyurls  = true
 languageCode = "en-us"
-  title = "ERC PTEROSOR: new methodologies for excited states"
 DefaultContentLanguage = "en"
 theme = "beautifulhugo"
+title = "ERC PTEROSOR: new methodologies for excited states"
 [Params]
   hometitle = "PT-symmetric electronic structure theory"
   logo="img/PTEROSOR.png"
