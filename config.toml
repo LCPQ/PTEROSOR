@@ -57,21 +57,27 @@ title = "PT-symmetric electronic structure theory"
 
 [[menu.main]]
     parent="external"
+    name = "CNRS"
+    url = "http://www.cnrs.fr"
+    weight = 2
+
+[[menu.main]]
+    parent="external"
     name = "Quantum Package"
     url = "https://quantumpackage.github.io/qp2"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent="external"
     name = "European Research Council"
     url = "https://erc.europa.eu"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     parent="external"
     name = "arXiv"
     url = "https://arxiv.org"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     parent="external"
