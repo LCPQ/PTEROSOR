@@ -1,5 +1,5 @@
-baseURL = "http://localhost:1313/ERC_PTEROSOR/"
-#baseURL = "https://lcpq.github.io/ERC_PTEROSOR/"
+baseURL = "http://localhost:1313/PTEROSOR/"
+#baseURL = "https://lcpq.github.io/PTEROSOR/"
 canonifyurls  = true
 languageCode = "en-us"
 title = "ERC PTEROSOR"
@@ -32,12 +32,12 @@ theme = "beautifulhugo"
     weight = 2
 
 [[menu.main]]
-    name = "Publications"
-    url = "publications"
+    name = "Software"
+    url = "software"
     weight = 3
 
 [[menu.main]]
-    name = "Software"
-    url = "software"
+    name = "Publications"
+    url = "publications"
     weight = 4
 
