@@ -5,12 +5,14 @@
     <link>https://lcpq.github.io/PTEROSOR/</link>
     <description>Recent content in Welcome on ERC PTEROSOR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lcpq.github.io/PTEROSOR/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>loos@irsamc.ups-tlse.fr (Titou Loos)</managingEditor>
+    <webMaster>loos@irsamc.ups-tlse.fr (Titou Loos)</webMaster><atom:link href="https://lcpq.github.io/PTEROSOR/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>People</title>
       <link>https://lcpq.github.io/PTEROSOR/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/people/</guid>
       <description>People funded by the ERC Pierre-François Loos CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 Michel Caffarel CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
@@ -27,7 +29,7 @@ Antoine Marie Master Student, ENS Lyon</description>
       <title>Publications</title>
       <link>https://lcpq.github.io/PTEROSOR/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/publications/</guid>
       <description>window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&amp;indent=true&amp;fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,author_s,authFullName_s,journal_s,label_bibtex,doiId_s,publicationDateY_i,publicationDate_tdate&amp;group=false&amp;start=0&amp;rows=10000&amp;fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&amp;sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); /* Display list of publications */ listContainer = document.createElement(&#39;div&#39;), listElement = document.createElement(&#39;ul&#39;), document.getElementsByTagName(&#39;article&#39;)[0].appendChild(listContainer); listContainer.appendChild(listElement); for (i in pub) { title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].files_s[0]; } catch (error) { url = &#34;&#34; }; authors = pub[i].</description>
     </item>
@@ -36,7 +38,7 @@ Antoine Marie Master Student, ENS Lyon</description>
       <title>Software</title>
       <link>https://lcpq.github.io/PTEROSOR/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/software/</guid>
       <description>window.onload = async function () { /* Get list of repositories */ var proxyUrl = &#39;https://cors-anywhere.herokuapp.com/&#39;; var targetUrl = &#39;https://git.irsamc.ups-tlse.fr/api/v1/orgs/pterosor/repos&#39;; software = await fetch(proxyUrl + targetUrl).then(function (response) { return response.json(); }).then(function (response) { return response; }); /* Display list of repositories */ listContainer = document.createElement(&#39;div&#39;), listElement = document.createElement(&#39;ul&#39;), document.getElementsByTagName(&#39;article&#39;)[0].appendChild(listContainer); listContainer.appendChild(listElement); for (repo in software) { if (software[repo].mirror) { name = software[repo].full_name.split(&#39;/&#39;)[1]; description = software[repo].description; url = software[repo].website; if (url == &#34;</description>
     </item>

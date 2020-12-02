@@ -5,6 +5,8 @@
     <link>https://lcpq.github.io/PTEROSOR/categories/</link>
     <description>Recent content in Categories on ERC PTEROSOR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lcpq.github.io/PTEROSOR/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>loos@irsamc.ups-tlse.fr (Titou Loos)</managingEditor>
+    <webMaster>loos@irsamc.ups-tlse.fr (Titou Loos)</webMaster><atom:link href="https://lcpq.github.io/PTEROSOR/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
