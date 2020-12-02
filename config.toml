@@ -12,6 +12,7 @@ title = "PT-symmetric electronic structure theory"
 [[Params.bigimg]]
   src = "img/banner.png"
   desc = "new methodologies for excited states"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
