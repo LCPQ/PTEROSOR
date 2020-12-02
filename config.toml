@@ -10,7 +10,7 @@ theme = "beautifulhugo"
   logo="img/PTEROSOR.png"
 #  subtitle = ""
 [[Params.bigimg]]
-  src = "img/QUEST-home.png"
+  src = "img/banner.png"
   desc = "A mountaineering strategy to excited states"
 [markup]
   [markup.goldmark]
