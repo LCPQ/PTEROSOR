@@ -1,5 +1,22 @@
+diff --git a/.github/workflows/config.patch b/.github/workflows/config.patch
+index b0ed281..e69de29 100644
+--- a/.github/workflows/config.patch
++++ b/.github/workflows/config.patch
+@@ -1,12 +0,0 @@
+-diff --git a/config.toml b/config.toml
+-index e38a47a..5a24a7f 100644
+---- a/config.toml
+-+++ b/config.toml
+-@@ -1,5 +1,5 @@
+--baseURL = "http://localhost:1313/PTEROSOR/"
+--#baseURL = "https://lcpq.github.io/PTEROSOR/"
+-+#baseURL = "http://localhost:1313/PTEROSOR/"
+-+baseURL = "https://lcpq.github.io/PTEROSOR/"
+- canonifyurls  = true
+- languageCode = "en-us"
+- title = "ERC PTEROSOR"
 diff --git a/config.toml b/config.toml
-index e38a47a..5a24a7f 100644
+index cad4250..b9c9e51 100644
 --- a/config.toml
 +++ b/config.toml
 @@ -1,5 +1,5 @@
@@ -9,4 +26,4 @@ index e38a47a..5a24a7f 100644
 +baseURL = "https://lcpq.github.io/PTEROSOR/"
  canonifyurls  = true
  languageCode = "en-us"
- title = "ERC PTEROSOR"
+ DefaultContentLanguage = "en"
