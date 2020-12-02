@@ -10,10 +10,12 @@ Processes related to electronically excited states are central in chemistry, phy
 
 ## Recent News
 
-### Dec 2020:</b> The <a href="https://lcpq.github.io/QUESTDB_website">QUEST</a> website is officially online and the corresponding publication submitted!
+<ul>
+	Dec 2020:</b> The <a href="https://lcpq.github.io/QUESTDB_website">QUEST</a> website is officially online and the corresponding publication submitted!
         Oct 2020:</b> Fabris Kossoski is going to join the group as a postdoctoral fellow from Oct. Welcome Fabris!
         Oct 2020:</b> A new PhD student (Enzo Monino) has joined the group. Welcome Enzo!
         Jun 2020:</b> The ERC PTEROSOR project has officialy started!
+</ul>
 
 <img src="img/ERC.jpg" width="200">
 
