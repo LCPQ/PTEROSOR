@@ -51,23 +51,23 @@ Master Student, ENS Lyon
 
 # Collaborators
 
-### <a href="https://www.hughburton.com">Hugh Burton</a>
-
+<ul>
+<li><b> <a href="https://www.hughburton.com">Hugh Burton</a></b>
 Research Fellow (University of Oxford, Oxford, UK)
 
-### Denis Jacquemin
+<li><b> <a href="https://www.hughburton.com">Denis Jacquemin</a></b>
 Professor (University of Nantes, Nantes, France)
 
-### Xavier Blase
+<li><b> <a href="https://www.hughburton.com">Xavier Blase</a></b>
 CNRS Researcher (NEEL institute, Grenoble, France)
 
-### Martial Boggio-Pasqua
+<li><b> <a href="https://www.hughburton.com">Martial Boggio-Pasqua</a></b>
 CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
-### Pina Romaniello
+<li><b> <a href="https://www.hughburton.com">Pina Romaniello</a></b>
 CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
-### Arjan Berger
+<li><b> <a href="https://www.hughburton.com">Arjan Berger</a></b>
 Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
-
+</ul>
 
