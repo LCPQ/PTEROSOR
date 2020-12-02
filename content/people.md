@@ -17,7 +17,7 @@ Laboratoire de Chimie et Physique Quantiques in Toulouse (France), and was award
 ### <a href="http://qmcchem.ups-tlse.fr/index.php?title=Michel_Caffarel">Michel Caffarel</a>
 CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
-<img src="/img/MCaffare.jpg" alt="M. Caffarel" width="200"/>
+<img src="/img/MCaffarel.jpg" alt="M. Caffarel" width="200"/>
 
 M. Caffarel received his Ph.D. in Theoretical Physics and Chemistry from the Université Pierre et Marie Curie (Paris, France) in 1987, before moving to the University of Illinois at Urbana-Champaign for a two-year postdoctoral stay in the group of Prof. David Ceperley. He is currently working as a senior scientist at the "Centre National de la Recherche Scientifique" (CNRS) at the Laboratoire de Chimie et Physique Quantiques in Toulouse (France). His research is mainly focused on the development and application of quantum Monte Carlo methods for theoretical chemistry and condensed-mater physics.
 
