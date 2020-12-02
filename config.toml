@@ -51,7 +51,7 @@ title = "PT-symmetric electronic structure theory"
 
 [[menu.main]]
     parent="external"
-    name = "Laboratoire de Chimie et Physique Quantique"
+    name = "Laboratoire de Chimie et Physique Quantiques"
     url = "http://www.lcpq.ups-tlse.fr"
     weight = 1
 

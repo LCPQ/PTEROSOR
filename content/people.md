@@ -29,7 +29,7 @@ CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, 
 A. Scemama received his Ph.D. in Computational and Theoretical Chemistry from the Université Pierre et Marie Curie (Paris, France) in 2004. He then moved to the Netherlands for a one-year postdoctoral stay in the group of Claudia Filippi, and came back in France for another year in the group of Eric Cancès. In 2006, he obtained a Research Engineer position from the "Centre National de la Recherche Scientifique" (CNRS) at the Laboratoire de Chimie et Physique Quantiques in Toulouse
 (France) to work on computational methods and high-performance computing for quantum chemistry. He was awarded the Crystal medal of the CNRS in 2019.
 
-### Fabris Kossoski
+### <a href="https://www.researchgate.net/profile/Fabris_Kossoski">Fabris Kossoski</a>
 Postdoc, ERC
 
 ### Enzo Monino 
@@ -37,10 +37,10 @@ PhD Student, ERC
 
 # Other group members
 
-### Mickael Véril 
+### <a href="https://mveril.github.io/">Mickael Véril</a>
 PhD Student UPS
 
-### Clotilde Marut 
+### <a href="https://www.researchgate.net/profile/Clotilde_Marut">Clotilde Marut</a>
 PhD Student, UPS
 
 ### Roberto Orlando 
@@ -51,7 +51,8 @@ Master Student, ENS Lyon
 
 # Collaborators
 
-### Hugh Burton
+### <a href="https://www.hughburton.com">Hugh Burton</a>
+
 Research Fellow (University of Oxford, Oxford, UK)
 
 ### Denis Jacquemin
