@@ -7,3 +7,4 @@ index 88ba656e..5d97890c 100644
 -#baseURL = "https://lcpq.github.io/PTEROSOR/"
 +#baseURL = "http://localhost:1313/PTEROSOR/"
 +baseURL = "https://lcpq.github.io/PTEROSOR/"
+
