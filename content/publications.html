@@ -4,6 +4,10 @@ date: 2019-09-30 11:30
 draft: false
 ---
 
+<div id="publications">
+Please wait...
+</div>
+
 <script>
     window.onload = async function () {
 
@@ -16,9 +20,9 @@ draft: false
         
 
         /* Display list of publications */
-        listContainer = document.createElement('div'),
-        listElement = document.createElement('ul'),
-        document.getElementsByTagName('article')[0].appendChild(listContainer);
+        listContainer = document.getElementById('publications');
+        listElement = document.createElement('ul');
+        listContainer.innerHTML="";
         listContainer.appendChild(listElement);
         
         for (i in pub) {
