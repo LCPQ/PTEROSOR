@@ -46,8 +46,10 @@ PhD Student UPS
 ### <a href="https://www.researchgate.net/profile/Clotilde_Marut">Clotilde Marut</a>
 PhD Student, UPS
 
+</-- 
 ### Roberto Orlando 
 PhD Student, 80|PRIME
+-->
 
 ### Antoine Marie
 Master Student, ENS Lyon
