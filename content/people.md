@@ -44,8 +44,12 @@ PhD Student, ERC
 ### <a href="https://mveril.github.io/">Mickael Véril</a>
 PhD Student UPS
 
+<img src="/img/MVeril.jpg" alt="Mika" height="250"/>
+
 ### <a href="https://www.researchgate.net/profile/Clotilde_Marut">Clotilde Marut</a>
 PhD Student, UPS
+
+<img src="/img/CMarut.jpg" alt="Clotilde" height="250"/>
 
 <!-- 
 ### Roberto Orlando 
