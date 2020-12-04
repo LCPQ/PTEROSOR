@@ -35,7 +35,7 @@ Postdoc, ERC
 ### Enzo Monino 
 PhD Student, ERC
 
-<img src="/img/EMonino.Jpg" alt="Enzo" height="300"/>
+<img src="/img/EMonino.jpg" alt="Enzo" height="300"/>
 
 
 # Other group members
