@@ -11,3 +11,7 @@ draft: false
 # Material
 
 All the documents related to the PTEROSOR group meeting can be found  <a href="https://git.irsamc.ups-tlse.fr/PTEROSOR/PTEROmeeting"> here</a>
+
+# PTEROSOR on Twitter
+
+<a class="twitter-timeline" href="https://twitter.com/home?ref_src=twsrc%5Etfw">Tweets by home</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
