@@ -1,0 +1,60 @@
+---
+title: "Group meetings"
+date: 2020-12-07 22:30
+draft: false
+---
+
+<h1> Videos</h1>
+<div id="videos">
+<script>
+    window.onload = async function () {
+        
+        const nResults = "5";
+        const url = "https://www.googleapis.com/youtube/v3/search?key=AIzaSyBNTN7ZM3WA4OUXaSJ7U58sBjBtWNnVnrs&channelId=UCPUtUMqEM3K5sYcMJGTd_Bg&part=snippet,id&order=date&maxResults="+nResults;
+        list = await fetch(url).then(function (response) {
+            return response.json();
+        }).then(function (response) {
+            return response.items;
+        });
+
+        listContainer = document.getElementById("videos");
+        listElement = document.createElement('ul');
+        listContainer.appendChild(listElement);
+
+        promises = [];
+        for (item in list) {
+          var x = async () => {
+            title = list[item].snippet.title;
+            descr = list[item].snippet.description;
+            videoId = list[item].id.videoId;
+            listItem = document.createElement('li');
+            iframe =   document.createElement('iframe');
+            iframe.width = 560;
+            iframe.height= 315;
+            iframe.frameborder= 0;
+            iframe.src = "https://www.youtube.com/embed/"+videoId;
+            iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+            iframe.allowfullscreen=true;
+            listItem.innerHTML = title;
+            listItem.appendChild(iframe);
+            return listItem;
+          };
+          promises.push(x());
+        }
+
+        for (p in promises) {
+            listElement.appendChild(await promises[p]);
+        }
+
+    }
+
+</script>
+</div>
+
+<h1>Documents</h1>
+
+All the material related to the PTEROSOR group meeting can be found <a href="https://git.irsamc.ups-tlse.fr/PTEROSOR/PTEROmeeting">here</a>.
+
+<h1>PTEROSOR on Twitter</h1>
+
+TODO
