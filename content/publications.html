@@ -12,38 +12,42 @@ Please wait...
     window.onload = async function () {
 
         /* Get list of publication */
-        pub = await fetch('https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,author_s,authFullName_s,journal_s,label_bibtex,doiId_s,publicationDateY_i,publicationDate_tdate&group=false&start=0&rows=10000&fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&sort=publicationDate_tdate%20desc').then(function (response) {
+        pub = await fetch('https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s&group=false&start=0&rows=10000&fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&sort=publicationDate_tdate%20desc').then(function (response) {
             return response.json();
         }).then(function (response) {
             return response.response.docs;
         });
-        
+
 
         /* Display list of publications */
         listContainer = document.getElementById('publications');
         listElement = document.createElement('ul');
         listContainer.innerHTML="";
         listContainer.appendChild(listElement);
-        
+
         for (i in pub) {
+            // Skip presentations
+            if ((pub[i].docType_s == "UNDEFINED") && !pub[i].arxivId_s)
+                continue;
+
             title = pub[i].title_s;
             arxivId  = pub[i].arxivId_s;
             citationRef = pub[i].citationRef_s;
             try {
                 url = pub[i].files_s[0];
             } catch (error) {
-                url = ""
+                url = pub[i].fileMainAnnex_s;
             };
             authors = pub[i].authFullName_s[0];
             for (j=1 ; j < pub[i].authFullName_s.length ; j++) {
                 authors += ", " + pub[i].authFullName_s[j];
             }
-            
+
             listItem = document.createElement('li');
             listItem.innerHTML =
                 "<h3><a href=\"" + url + "\">" + title + "</a><br></h3>"
                 + "<div><p>" + authors + "</div>"
-                + "<div><p> " + citationRef 
+                + "<div><p> " + citationRef
                 + ", <a href=\"https://arxiv.org/abs/" + arxivId + "\">arXiv:" + arxivId + "</a>"
                 + "</div>"
                 + pub[i].abstract_s;
