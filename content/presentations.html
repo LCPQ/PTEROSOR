@@ -1,0 +1,25 @@
+      for (i in pub) {
+          // Skip presentations
+          if ((pub[i].docType_s == "UNDEFINED") && !pub[i].arxivId_s) {
+              
+              title = pub[i].title_s;
+              arxivId  = pub[i].arxivId_s;
+              citationRef = pub[i].citationRef_s;
+              try {
+                  url = pub[i].files_s[0];
+              } catch (error) {
+                  url = pub[i].fileMainAnnex_s;
+              };
+              authors = pub[i].authFullName_s[0];
+              for (j=1 ; j < pub[i].authFullName_s.length ; j++) {
+                  authors += ", " + pub[i].authFullName_s[j];
+              }
+              
+              listItem = document.createElement('li');
+              listItem.innerHTML =
+                  "<h3><a href=\"" + url + "\">" + title + "</a><br></h3>"
+                  + "<div><p>" + authors + "</div>"
+                  + "</div>";
+              listElement.appendChild(listItem);
+          }
+      }

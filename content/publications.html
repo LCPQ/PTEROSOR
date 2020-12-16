@@ -4,6 +4,12 @@ date: 2019-09-30 11:30
 draft: false
 ---
 
+<h1>Oral presentations</h1>
+<div id="presentations">
+Please wait...
+</div>
+
+<h1>Publications</h1>
 <div id="publications">
 Please wait...
 </div>
@@ -19,17 +25,24 @@ Please wait...
         });
 
 
-        /* Display list of publications */
-        listContainer = document.getElementById('publications');
-        listElement = document.createElement('ul');
+        listContainer = document.getElementById('presentations');
+        listElementPres = document.createElement('ul');
         listContainer.innerHTML="";
-        listContainer.appendChild(listElement);
+        listContainer.appendChild(listElementPres);
+
+        listContainer = document.getElementById('publications');
+        listElementPub = document.createElement('ul');
+        listContainer.innerHTML="";
+        listContainer.appendChild(listElementPub);
 
         for (i in pub) {
-            // Skip presentations
-            if ((pub[i].docType_s == "UNDEFINED") && !pub[i].arxivId_s)
-                continue;
-
+            var is_presentation = (pub[i].docType_s == "UNDEFINED") && !pub[i].arxivId_s ;
+            if (is_presentation) {
+                listElement = listElementPres;
+            } else {
+                listElement = listElementPub ;
+            }
+            
             title = pub[i].title_s;
             arxivId  = pub[i].arxivId_s;
             citationRef = pub[i].citationRef_s;
@@ -42,20 +55,22 @@ Please wait...
             for (j=1 ; j < pub[i].authFullName_s.length ; j++) {
                 authors += ", " + pub[i].authFullName_s[j];
             }
-
+            
             listItem = document.createElement('li');
             listItem.innerHTML =
                 "<h3><a href=\"" + url + "\">" + title + "</a><br></h3>"
                 + "<div><p>" + authors + "</div>"
-                + "<div><p> " + citationRef
-                + ", <a href=\"https://arxiv.org/abs/" + arxivId + "\">arXiv:" + arxivId + "</a>"
-                + "</div>"
-                + pub[i].abstract_s;
+            if (!is_presentation) {
+                listItem.innerHTML +=
+                    "<div><p> " + citationRef
+                    + ", <a href=\"https://arxiv.org/abs/" + arxivId + "\">arXiv:" + arxivId + "</a>"
+                    + "</div>"
+                    + pub[i].abstract_s;
+            }
             listElement.appendChild(listItem);
-
         }
-MathJax.startup.document.state(0);
-//MathJax.texReset();
-MathJax.typeset();
+        MathJax.startup.document.state(0);
+        //MathJax.texReset();
+        MathJax.typeset();
     }
 </script>
