@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Publications - PT-symmetric electronic structure theory</title>
-  <meta name="description" content="Please wait...   window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,author_s,authFullName_s,journal_s,label_bibtex,doiId_s,publicationDateY_i,publicationDate_tdate&group=false&start=0&rows=10000&fq=docType_s:(ART&#43;OR&#43;COMM&#43;OR&#43;OUV&#43;OR&#43;COUV&#43;OR&#43;DOUV&#43;OR&#43;OTHER&#43;OR&#43;UNDEFINED&#43;OR&#43;REPORT&#43;OR&#43;THESE&#43;OR&#43;HDR)&sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); /* Display list of publications */ listContainer = document.getElementById(&#39;publications&#39;); listElement = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElement); for (i in pub) { title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].files_s[0]; } catch (error) { url = &#34;">
+  <meta name="description" content="Please wait...   window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s&group=false&start=0&rows=10000&fq=docType_s:(ART&#43;OR&#43;COMM&#43;OR&#43;OUV&#43;OR&#43;COUV&#43;OR&#43;DOUV&#43;OR&#43;OTHER&#43;OR&#43;UNDEFINED&#43;OR&#43;REPORT&#43;OR&#43;THESE&#43;OR&#43;HDR)&sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); /* Display list of publications */ listContainer = document.getElementById(&#39;publications&#39;); listElement = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElement); for (i in pub) { // Skip presentations if ((pub[i].docType_s == &#34;UNDEFINED&#34;) && !pub[i].arxivId_s) continue; title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].">
   <meta name="author" content="Titou Loos"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -57,9 +57,9 @@
     "name" : "Titou Loos"
   },
   "headline": "Publications",
-  "description" : "Please wait...   window.onload = async function () { \/* Get list of publication *\/ pub = await fetch(\u0027https:\/\/api.archives-ouvertes.fr\/search\/?q=europeanProject_t:pterosor\u0026indent=true\u0026fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,author_s,authFullName_s,journal_s,label_bibtex,doiId_s,publicationDateY_i,publicationDate_tdate\u0026group=false\u0026start=0\u0026rows=10000\u0026fq=docType_s:(ART\u002bOR\u002bCOMM\u002bOR\u002bOUV\u002bOR\u002bCOUV\u002bOR\u002bDOUV\u002bOR\u002bOTHER\u002bOR\u002bUNDEFINED\u002bOR\u002bREPORT\u002bOR\u002bTHESE\u002bOR\u002bHDR)\u0026sort=publicationDate_tdate%20desc\u0027).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); \/* Display list of publications *\/ listContainer = document.getElementById(\u0027publications\u0027); listElement = document.createElement(\u0027ul\u0027); listContainer.innerHTML=\u0022\u0022; listContainer.appendChild(listElement); for (i in pub) { title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].files_s[0]; } catch (error) { url = \u0022",
+  "description" : "Please wait...   window.onload = async function () { \/* Get list of publication *\/ pub = await fetch(\u0027https:\/\/api.archives-ouvertes.fr\/search\/?q=europeanProject_t:pterosor\u0026indent=true\u0026fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s\u0026group=false\u0026start=0\u0026rows=10000\u0026fq=docType_s:(ART\u002bOR\u002bCOMM\u002bOR\u002bOUV\u002bOR\u002bCOUV\u002bOR\u002bDOUV\u002bOR\u002bOTHER\u002bOR\u002bUNDEFINED\u002bOR\u002bREPORT\u002bOR\u002bTHESE\u002bOR\u002bHDR)\u0026sort=publicationDate_tdate%20desc\u0027).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); \/* Display list of publications *\/ listContainer = document.getElementById(\u0027publications\u0027); listElement = document.createElement(\u0027ul\u0027); listContainer.innerHTML=\u0022\u0022; listContainer.appendChild(listElement); for (i in pub) { \/\/ Skip presentations if ((pub[i].docType_s == \u0022UNDEFINED\u0022) \u0026\u0026 !pub[i].arxivId_s) continue; title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].",
   "inLanguage" : "en",
-  "wordCount":  110 ,
+  "wordCount":  120 ,
   "datePublished" : "0001-01-01T00:00:00",
   "dateModified" : "0001-01-01T00:00:00",
   "image" : "https:\/\/lcpq.github.io\/PTEROSOR\/img\/PTEROSOR.png",
@@ -79,7 +79,7 @@
 </script>
 
 <meta property="og:title" content="Publications" />
-<meta property="og:description" content="Please wait...   window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,author_s,authFullName_s,journal_s,label_bibtex,doiId_s,publicationDateY_i,publicationDate_tdate&group=false&start=0&rows=10000&fq=docType_s:(ART&#43;OR&#43;COMM&#43;OR&#43;OUV&#43;OR&#43;COUV&#43;OR&#43;DOUV&#43;OR&#43;OTHER&#43;OR&#43;UNDEFINED&#43;OR&#43;REPORT&#43;OR&#43;THESE&#43;OR&#43;HDR)&sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); /* Display list of publications */ listContainer = document.getElementById(&#39;publications&#39;); listElement = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElement); for (i in pub) { title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].files_s[0]; } catch (error) { url = &#34;">
+<meta property="og:description" content="Please wait...   window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s&group=false&start=0&rows=10000&fq=docType_s:(ART&#43;OR&#43;COMM&#43;OR&#43;OUV&#43;OR&#43;COUV&#43;OR&#43;DOUV&#43;OR&#43;OTHER&#43;OR&#43;UNDEFINED&#43;OR&#43;REPORT&#43;OR&#43;THESE&#43;OR&#43;HDR)&sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); /* Display list of publications */ listContainer = document.getElementById(&#39;publications&#39;); listElement = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElement); for (i in pub) { // Skip presentations if ((pub[i].docType_s == &#34;UNDEFINED&#34;) && !pub[i].arxivId_s) continue; title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].">
 <meta property="og:image" content="https://lcpq.github.io/PTEROSOR/img/PTEROSOR.png" />
 <meta property="og:url" content="https://lcpq.github.io/PTEROSOR/publications/" />
 <meta property="og:type" content="website" />
@@ -297,38 +297,42 @@ Please wait...
     window.onload = async function () {
 
         /* Get list of publication */
-        pub = await fetch('https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,author_s,authFullName_s,journal_s,label_bibtex,doiId_s,publicationDateY_i,publicationDate_tdate&group=false&start=0&rows=10000&fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&sort=publicationDate_tdate%20desc').then(function (response) {
+        pub = await fetch('https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&indent=true&fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s&group=false&start=0&rows=10000&fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&sort=publicationDate_tdate%20desc').then(function (response) {
             return response.json();
         }).then(function (response) {
             return response.response.docs;
         });
-        
+
 
         /* Display list of publications */
         listContainer = document.getElementById('publications');
         listElement = document.createElement('ul');
         listContainer.innerHTML="";
         listContainer.appendChild(listElement);
-        
+
         for (i in pub) {
+            // Skip presentations
+            if ((pub[i].docType_s == "UNDEFINED") && !pub[i].arxivId_s)
+                continue;
+
             title = pub[i].title_s;
             arxivId  = pub[i].arxivId_s;
             citationRef = pub[i].citationRef_s;
             try {
                 url = pub[i].files_s[0];
             } catch (error) {
-                url = ""
+                url = pub[i].fileMainAnnex_s;
             };
             authors = pub[i].authFullName_s[0];
             for (j=1 ; j < pub[i].authFullName_s.length ; j++) {
                 authors += ", " + pub[i].authFullName_s[j];
             }
-            
+
             listItem = document.createElement('li');
             listItem.innerHTML =
                 "<h3><a href=\"" + url + "\">" + title + "</a><br></h3>"
                 + "<div><p>" + authors + "</div>"
-                + "<div><p> " + citationRef 
+                + "<div><p> " + citationRef
                 + ", <a href=\"https://arxiv.org/abs/" + arxivId + "\">arXiv:" + arxivId + "</a>"
                 + "</div>"
                 + pub[i].abstract_s;
