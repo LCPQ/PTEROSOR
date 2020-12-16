@@ -9,6 +9,16 @@
     <managingEditor>loos@irsamc.ups-tlse.fr (Titou Loos)</managingEditor>
     <webMaster>loos@irsamc.ups-tlse.fr (Titou Loos)</webMaster><atom:link href="https://lcpq.github.io/PTEROSOR/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://lcpq.github.io/PTEROSOR/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
+      <guid>https://lcpq.github.io/PTEROSOR/presentations/</guid>
+      <description> for (i in pub) { // Skip presentations if ((pub[i].docType_s == &#34;UNDEFINED&#34;) &amp;&amp; !pub[i].arxivId_s) { title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].files_s[0]; } catch (error) { url = pub[i].fileMainAnnex_s; }; authors = pub[i].authFullName_s[0]; for (j=1 ; j &#34; + title + &#34;
+&#34; + &#34;&#34; + authors + &#34;&#34; + &#34;&#34;; listElement.appendChild(listItem); } } </description>
+    </item>
+    
+    <item>
       <title>Group meetings</title>
       <link>https://lcpq.github.io/PTEROSOR/meeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,7 +43,7 @@ img.photo { height: 250px; border-radius: 50%; }  P.-F. Loos (aka Titou) receive
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/publications/</guid>
-      <description>Please wait...   window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&amp;indent=true&amp;fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s&amp;group=false&amp;start=0&amp;rows=10000&amp;fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&amp;sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); /* Display list of publications */ listContainer = document.getElementById(&#39;publications&#39;); listElement = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElement); for (i in pub) { // Skip presentations if ((pub[i].docType_s == &#34;UNDEFINED&#34;) &amp;&amp; !pub[i].arxivId_s) continue; title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].</description>
+      <description>Oral presentations Please wait...  Publications Please wait...   window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&amp;indent=true&amp;fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s&amp;group=false&amp;start=0&amp;rows=10000&amp;fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&amp;sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); listContainer = document.getElementById(&#39;presentations&#39;); listElementPres = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElementPres); listContainer = document.getElementById(&#39;publications&#39;); listElementPub = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElementPub); for (i in pub) { var is_presentation = (pub[i].docType_s == &#34;UNDEFINED&#34;) &amp;&amp; !pub[i].arxivId_s ; if (is_presentation) { listElement = listElementPres; } else { listElement = listElementPub ; } title = pub[i].</description>
     </item>
     
     <item>
