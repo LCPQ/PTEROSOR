@@ -7,6 +7,7 @@ draft: false
 ## Recent News
 
 <ul>
+	<li><b>Mar 2021:</b> Enzo's first paper on the spin-flip BSE formalism has been accepted in JCTC! 
 	<li><b>Dec 2020:</b> The <a href="https://lcpq.github.io/QUESTDB_website">QUEST</a> website is officially online and the corresponding publication submitted!
         <li><b>Oct 2020:</b> Fabris Kossoski has joined the group as a postdoctoral fellow. Welcome Fabris!
         <li><b>Oct 2020:</b> A new PhD student (Enzo Monino) has joined the group. Welcome Enzo!
