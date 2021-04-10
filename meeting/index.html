@@ -59,7 +59,7 @@
   "headline": "Group meetings",
   "description" : "Documents All the material related to the PTEROSOR group meeting can be found here.  Videos  window.onload = async function () { const nResults = \u00225\u0022; const url = \u0022https:\/\/www.googleapis.com\/youtube\/v3\/search?key=AIzaSyBNTN7ZM3WA4OUXaSJ7U58sBjBtWNnVnrs\u0026channelId=UCPUtUMqEM3K5sYcMJGTd_Bg\u0026part=snippet,id\u0026order=date\u0026maxResults=\u0022\u002bnResults; list = await fetch(url).then(function (response) { return response.json(); }).then(function (response) { return response.items; }); listContainer = document.getElementById(\u0022videos\u0022); listElement = document.createElement(\u0027ul\u0027); listContainer.appendChild(listElement); promises = []; for (item in list) { var x = async () = { title = list[item].",
   "inLanguage" : "en",
-  "wordCount":  117 ,
+  "wordCount":  119 ,
   "datePublished" : "0001-01-01T00:00:00",
   "dateModified" : "0001-01-01T00:00:00",
   "image" : "https:\/\/lcpq.github.io\/PTEROSOR\/img\/PTEROSOR.png",
@@ -324,7 +324,7 @@ All the material related to the PTEROSOR group meeting can be found <a href="htt
             iframe.src = "https://www.youtube.com/embed/"+videoId;
             iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
             iframe.allowfullscreen=true;
-            listItem.innerHTML = title;
+            listItem.innerHTML = title +"<br>";
             listItem.appendChild(iframe);
             return listItem;
           };
