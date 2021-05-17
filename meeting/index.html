@@ -59,7 +59,7 @@
   "headline": "Group meetings",
   "description" : "Documents All the material related to the PTEROSOR group meeting can be found here.  Videos  window.onload = async function () { const nResults = \u00225\u0022; const url = \u0022https:\/\/www.googleapis.com\/youtube\/v3\/search?key=AIzaSyBNTN7ZM3WA4OUXaSJ7U58sBjBtWNnVnrs\u0026channelId=UCPUtUMqEM3K5sYcMJGTd_Bg\u0026part=snippet,id\u0026order=date\u0026maxResults=\u0022\u002bnResults; list = await fetch(url).then(function (response) { return response.json(); }).then(function (response) { return response.items; }); listContainer = document.getElementById(\u0022videos\u0022); listElement = document.createElement(\u0027ul\u0027); listContainer.appendChild(listElement); promises = []; for (item in list) { var x = async () = { title = list[item].",
   "inLanguage" : "en",
-  "wordCount":  119 ,
+  "wordCount":  118 ,
   "datePublished" : "0001-01-01T00:00:00",
   "dateModified" : "0001-01-01T00:00:00",
   "image" : "https:\/\/lcpq.github.io\/PTEROSOR\/img\/PTEROSOR.png",
@@ -91,7 +91,7 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@PTEROSOR" />
   <meta name="twitter:creator" content="@PTEROSOR" />
-  <meta name="generator" content="Hugo 0.80.0" />
+  <meta name="generator" content="Hugo 0.83.1" />
   <link rel="alternate" href="https://lcpq.github.io/PTEROSOR/index.xml" type="application/rss+xml" title="PT-symmetric electronic structure theory"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://lcpq.github.io/PTEROSOR/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -320,10 +320,10 @@ All the material related to the PTEROSOR group meeting can be found <a href="htt
             iframe =   document.createElement('iframe');
             iframe.width = 560;
             iframe.height= 315;
-            iframe.frameborder= 0;
+            iframe.setAttribute("frameborder",'0');
             iframe.src = "https://www.youtube.com/embed/"+videoId;
             iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-            iframe.allowfullscreen=true;
+            iframe.setAttribute("allowfullscreen",'');
             listItem.innerHTML = title +"<br>";
             listItem.appendChild(iframe);
             return listItem;
@@ -426,7 +426,7 @@ All the material related to the PTEROSOR group meeting can be found <a href="htt
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="https://gohugo.io">Hugo v0.80.0</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          <a href="https://gohugo.io">Hugo v0.83.1</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>
