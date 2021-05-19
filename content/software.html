@@ -14,7 +14,8 @@ Please wait...
     window.onload = async function () {
 
         /* Get list of repositories */
-        var proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+    //    var proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+        var proxyUrl = '';
         var targetUrl = 'https://git.irsamc.ups-tlse.fr/api/v1/orgs/pterosor/repos';
         software = await fetch(proxyUrl + targetUrl).then(function (response) {
             return response.json();
