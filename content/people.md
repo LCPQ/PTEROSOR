@@ -43,7 +43,7 @@ Postdoc, ERC
 
 <img class="photo" src="/img/RQuintero.png" alt="Raul" />
 
-### Enzo Monino 
+### <a href="https://www.lcpq.ups-tlse.fr/spip.php?article1988&lang=en">Enzo Monino 
 PhD Student, ERC
 
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
@@ -70,6 +70,10 @@ Master Student, ENS Lyon
 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
+### Yann Damour
+Master Student, UPS
+
+<img class="photo" src="/img/YDamour.png" alt="Yann" />
 
 # Collaborators
 
