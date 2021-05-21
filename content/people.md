@@ -41,7 +41,7 @@ Postdoc, ERC
 ### <a href="http://orcid.org/0000-0002-4518-5497">Raul Quintero-Monsebaiz</a>
 Postdoc, ERC
 
-<img class="photo" src="/img/RQuintero.png" alt="Raul" />
+<img class="photo" src="/img/RQuintero.jpg" alt="Raul" />
 
 ### <a href="https://www.lcpq.ups-tlse.fr/spip.php?article1988&lang=en">Enzo Monino 
 PhD Student, ERC
@@ -73,7 +73,7 @@ Master Student, ENS Lyon
 ### Yann Damour
 Master Student, UPS
 
-<img class="photo" src="/img/YDamour.png" alt="Yann" />
+<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
 # Collaborators
 
