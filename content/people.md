@@ -36,7 +36,12 @@ A. Scemama received his Ph.D. in Computational and Theoretical Chemistry from th
 ### <a href="https://www.researchgate.net/profile/Fabris_Kossoski">Fabris Kossoski</a>
 Postdoc, ERC
 
-<img class="photo" src="/img/FKossoski.png" alt="Enzo" />
+<img class="photo" src="/img/FKossoski.png" alt="Fabris" />
+
+### <a href="http://orcid.org/0000-0002-4518-5497">Raul Quintero-Monsebaiz</a>
+Postdoc, ERC
+
+<img class="photo" src="/img/RQuintero.png" alt="Raul" />
 
 ### Enzo Monino 
 PhD Student, ERC
