@@ -7,6 +7,7 @@ draft: false
 ## Recent News
 
 <ul>
+        <li><b>Jun 2021:</b> Raul Quintero has joined the group as a postdoctoral fellow. Welcome Raul!
 	<li><b>Mar 2021:</b> Enzo's first paper on <a href="https://dx.doi.org/10.1021/acs.jctc.1c00074">spin-flip BSE</a> has been accepted in JCTC! 
 	<li><b>Feb 2021:</b> Our paper on <a href="https://dx.doi.org/10.1088/1361-648X/abe795">perturbation theory in the complex plane</a> has been accpeted in JPCM!
 	<li><b>Dec 2020:</b> The <a href="https://lcpq.github.io/QUESTDB_website">QUEST</a> website is officially online and the corresponding publication submitted!
