@@ -10,7 +10,6 @@ draft: false
 <<<<<<< HEAD
 	<li><b>Aug 2021:</b> Antoine's paper on variational pair CCD for ground and excited states has been accepted in JCP! 
 	<li><b>Jun 2021:</b> Fabris' paper on <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348">pair CCD for excited states</a> has been accepted in JCTC! 
-	<li><b>Mar 2021:</b> Fabris' paper on <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348">pair CCD for excited states</a> has been accepted in JCTC! 
         <li><b>Jun 2021:</b> Raul Quintero-Monsebaiz has joined the group as a postdoctoral fellow. Welcome Raul!
 =======
 	<li><b>Jun 2021:</b> Fabris' paper on <a href="https://arxiv.org/pdf/2104.03746.pdf">pCCD for excited states</a> has been accepted in JCTC! 
