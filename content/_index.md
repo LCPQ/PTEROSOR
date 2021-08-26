@@ -7,10 +7,15 @@ draft: false
 ## Recent News
 
 <ul>
+<<<<<<< HEAD
 	<li><b>Aug 2021:</b> Antoine's paper on variational pair CCD for ground and excited states has been accepted in JCP! 
 	<li><b>Jun 2021:</b> Fabris' paper on <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348">pair CCD for excited states</a> has been accepted in JCTC! 
 	<li><b>Mar 2021:</b> Fabris' paper on <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348">pair CCD for excited states</a> has been accepted in JCTC! 
         <li><b>Jun 2021:</b> Raul Quintero-Monsebaiz has joined the group as a postdoctoral fellow. Welcome Raul!
+=======
+	<li><b>Jun 2021:</b> Fabris' paper on <a href="https://arxiv.org/pdf/2104.03746.pdf">pCCD for excited states</a> has been accepted in JCTC! 
+        <li><b>Jun 2021:</b> Raul Quintero has joined the group as a postdoctoral fellow. Welcome Raul!
+>>>>>>> 61d001b4da72631400e05161b1ce79f49d24ed1a
 	<li><b>Mar 2021:</b> Enzo's first paper on <a href="https://dx.doi.org/10.1021/acs.jctc.1c00074">spin-flip BSE</a> has been accepted in JCTC! 
 	<li><b>Feb 2021:</b> Our paper on <a href="https://dx.doi.org/10.1088/1361-648X/abe795">perturbation theory in the complex plane</a> has been accpeted in JPCM!
 	<li><b>Dec 2020:</b> The <a href="https://lcpq.github.io/QUESTDB_website">QUEST</a> website is officially online and the corresponding publication submitted!

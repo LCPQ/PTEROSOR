@@ -36,9 +36,14 @@ A. Scemama received his Ph.D. in Computational and Theoretical Chemistry from th
 ### <a href="https://www.researchgate.net/profile/Fabris_Kossoski">Fabris Kossoski</a>
 Postdoc, ERC
 
-<img class="photo" src="/img/FKossoski.png" alt="Enzo" />
+<img class="photo" src="/img/FKossoski.png" alt="Fabris" />
 
-### Enzo Monino 
+### <a href="http://orcid.org/0000-0002-4518-5497">Raul Quintero-Monsebaiz</a>
+Postdoc, ERC
+
+<img class="photo" src="/img/RQuintero.jpg" alt="Raul" />
+
+### <a href="https://www.lcpq.ups-tlse.fr/spip.php?article1988&lang=en">Enzo Monino 
 PhD Student, ERC
 
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
@@ -65,6 +70,10 @@ Master Student, ENS Lyon
 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
+### Yann Damour
+Master Student, UPS
+
+<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
 # Collaborators
 
