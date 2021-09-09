@@ -6,18 +6,15 @@ draft: false
 
 ## Recent News
 
-<ul>
-	<li><b>Aug 2021:</b> Antoine's paper on variational pair CCD for ground and excited states has been accepted in JCP! 
-	<li><b>Jun 2021:</b> Fabris' paper on <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348">pair CCD for excited states</a> has been accepted in JCTC! 
-        <li><b>Jun 2021:</b> Raul Quintero-Monsebaiz has joined the group as a postdoctoral fellow. Welcome Raul!
-	<li><b>Mar 2021:</b> Enzo's first paper on <a href="https://dx.doi.org/10.1021/acs.jctc.1c00074">spin-flip BSE</a> has been accepted in JCTC! 
-	<li><b>Feb 2021:</b> Our paper on <a href="https://dx.doi.org/10.1088/1361-648X/abe795">perturbation theory in the complex plane</a> has been accpeted in JPCM!
-	<li><b>Dec 2020:</b> The <a href="https://lcpq.github.io/QUESTDB_website">QUEST</a> website is officially online and the corresponding publication submitted!
-        <li><b>Oct 2020:</b> Fabris Kossoski has joined the group as a postdoctoral fellow. Welcome Fabris!
-        <li><b>Oct 2020:</b> A new PhD student (Enzo Monino) has joined the group. Welcome Enzo!
-        <li><b>Jun 2020:</b> The ERC PTEROSOR project has officialy started!
-</ul>
-<br><br>
+* **Aug 2021:** Antoine's paper on [variational pair CCD for ground and excited states](https://aip.scitation.org/doi/full/10.1063/5.0060698) has been accepted in JCP! 
+* **Jun 2021:** Fabris' paper on [pair CCD for excited states](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348) has been accepted in JCTC! 
+* **Jun 2021:** Raul Quintero-Monsebaiz has joined the group as a postdoctoral fellow. Welcome Raul!
+* **Mar 2021:** Enzo's first paper on [spin-flip BSE](https://dx.doi.org/10.1021/acs.jctc.1c00074) has been accepted in JCTC! 
+* **Feb 2021:** Our paper on [perturbation theory in the complex plane]("https://dx.doi.org/10.1088/1361-648X/abe795) has been accpeted in JPCM!
+* **Dec 2020:** The [QUEST](https://lcpq.github.io/QUESTDB_website) website is officially online and the corresponding publication submitted!
+* **Oct 2020:** Fabris Kossoski has joined the group as a postdoctoral fellow. Welcome Fabris!
+* **Oct 2020:** A new PhD student (Enzo Monino) has joined the group. Welcome Enzo!
+* **Jun 2020:** The ERC PTEROSOR project has officialy started!
 
 ## The PTEROSOR project
 
