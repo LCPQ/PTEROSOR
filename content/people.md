@@ -98,8 +98,12 @@ CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 <br>
 CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
-<li><b> <a href="https://www.lcpq.ups-tlse.fr/spip.php?rubrique381&lang=en">Arjan Berger</a></b>
+<li><b> <a href="https://www.lcpq.ups-tlse.fr/berger">Arjan Berger</a></b>
 <br>
 Associate professor (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+
+<li><b> <a href="https://www.paolagorigiorgi.org">Paola Gori-Giorgi</a></b>
+<br>
+Professor (Vrije Universiteit, Amsterdam, Netherland)
 </ul>
 
