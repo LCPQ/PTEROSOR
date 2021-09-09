@@ -63,12 +63,12 @@ PhD Student, UPS
 <!-- 
 ### Roberto Orlando 
 PhD Student, 80|PRIME
--->
 
 ### Antoine Marie
 Master Student, ENS Lyon
 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
+-->
 
 ### Yann Damour
 Master Student, UPS
