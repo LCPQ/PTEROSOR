@@ -48,6 +48,11 @@ PhD Student, ERC
 
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
 
+### Yann Damour
+PhD Student, ERC
+
+<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
+
 # Other group members
 
 ### <a href="https://mveril.github.io/">Mickael Véril</a>
@@ -69,11 +74,6 @@ Master Student, ENS Lyon
 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 -->
-
-### Yann Damour
-Master Student, UPS
-
-<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
 # Collaborators
 
