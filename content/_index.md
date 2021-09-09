@@ -6,6 +6,7 @@ draft: false
 
 ## Recent News
 
+* **Oct 2021:** Yann Damour has (re)joined the group as a PhD student. Welcome back Yann!
 * **Aug 2021:** Antoine's paper on [variational pair CCD for ground and excited states](https://aip.scitation.org/doi/full/10.1063/5.0060698) has been accepted in JCP! 
 * **Jun 2021:** Fabris' paper on [pair CCD for excited states](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348) has been accepted in JCTC! 
 * **Jun 2021:** Raul Quintero-Monsebaiz has joined the group as a postdoctoral fellow. Welcome Raul!
