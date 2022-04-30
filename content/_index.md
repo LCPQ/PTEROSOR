@@ -6,6 +6,8 @@ draft: false
 
 ## Recent News
 
+* **Apr 2022:** Fabris' paper on [hierarchy CI](https://arxiv.org/pdf/2203.06154.pdf) has been accepted for publication in JPCL!
+* **Feb 2022:** Enzo's paper on [unphysical discontinuities, intruder states and regularization in GW methods](https://arxiv.org/pdf/2202.11589.pdf) has been submitted for publication to JCP!
 * **Oct 2021:** Yann Damour has (re)joined the group as a PhD student. Welcome back Yann!
 * **Aug 2021:** Antoine's paper on [variational pair CCD for ground and excited states](https://aip.scitation.org/doi/full/10.1063/5.0060698) has been accepted in JCP! 
 * **Jun 2021:** Fabris' paper on [pair CCD for excited states](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.1c00348) has been accepted in JCTC! 
