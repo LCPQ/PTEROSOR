@@ -6,6 +6,7 @@ draft: false
 
 ## Recent News
 
+* **Oct 2022:** Antoine Marie has (re)joined the group as a PhD student. Welcome back Antoine!
 * **May 2022:** Yann, Enzo, Raul, and Fabris will be participating to the [2022 RCTF congress](https://rctf2022.sciencesconf.org) in Bordeaux!
 * **May 2022:** Fabris is part of the invited speakers for the [2022 Young Researchers' Meeting](https://www.etsfyrm2022.com/invited-speakers#h.yhdsaayicnzo) in Marseille!
 * **Apr 2022:** Fabris' paper on [hierarchy CI](https://arxiv.org/pdf/2203.06154.pdf) has been accepted for publication in JPCL!
