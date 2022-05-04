@@ -6,7 +6,10 @@ draft: false
 
 ## Recent News
 
+* **May 2022:** Yann, Enzo, Raul, and Fabris will be participating to the [2022 RCTF congress](https://rctf2022.sciencesconf.org) in Bordeaux!
+* **May 2022:** Fabris is part of the invited speakers for the [2022 Young Researchers' Meeting](https://www.etsfyrm2022.com/invited-speakers#h.yhdsaayicnzo) in Marseille!
 * **Apr 2022:** Fabris' paper on [hierarchy CI](https://arxiv.org/pdf/2203.06154.pdf) has been accepted for publication in JPCL!
+* **Mar 2022:** Enzo, Raul, and Fabris will be presenting posters at the [12th triennial congress of WATOC](https://www.cheminst.ca/conference/watoc-2020/) in Vancouver!
 * **Feb 2022:** Enzo's paper on [unphysical discontinuities, intruder states and regularization in GW methods](https://arxiv.org/pdf/2202.11589.pdf) has been submitted for publication to JCP!
 * **Oct 2021:** Yann Damour has (re)joined the group as a PhD student. Welcome back Yann!
 * **Aug 2021:** Antoine's paper on [variational pair CCD for ground and excited states](https://aip.scitation.org/doi/full/10.1063/5.0060698) has been accepted in JCP! 
