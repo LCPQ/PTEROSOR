@@ -56,9 +56,6 @@ PhD Student, ERC
 
 # Other group members
 
-### <a href="https://mveril.github.io/">Mickael Véril</a>
-PhD Student UPS
-
 <img class="photo" src="/img/MVeril.jpg" alt="Mika" />
 
 ### <a href="https://www.researchgate.net/profile/Clotilde_Marut">Clotilde Marut</a>
