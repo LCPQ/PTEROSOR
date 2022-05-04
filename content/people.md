@@ -54,9 +54,12 @@ PhD Student, ERC
 
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
-# Other group members
+### Antoine Marie
+PhD Student, ERC
 
-<img class="photo" src="/img/MVeril.jpg" alt="Mika" />
+<img class="photo" src="/img/AMarie.png" alt="Antoine" />
+
+# Other group members
 
 ### <a href="https://www.researchgate.net/profile/Clotilde_Marut">Clotilde Marut</a>
 PhD Student, UPS
@@ -67,10 +70,6 @@ PhD Student, UPS
 ### Roberto Orlando 
 PhD Student, 80|PRIME
 
-### Antoine Marie
-Master Student, ENS Lyon
-
-<img class="photo" src="/img/AMarie.png" alt="Antoine" />
 -->
 
 # Collaborators
@@ -86,11 +85,11 @@ Professor (University of Nantes, Nantes, France)
 
 <li><b> <a href="http://perso.neel.cnrs.fr/xavier.blase/">Xavier Blase</a></b>
 <br>
-CNRS Researcher (NEEL institute, Grenoble, France)
+CNRS senior researcher (NEEL institute, Grenoble, France)
 
 <li><b> <a href="https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr">Martial Boggio-Pasqua</a></b>
 <br>
-CNRS Researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+CNRS researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 <li><b> <a href="http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en">Pina Romaniello</a></b>
 <br>
