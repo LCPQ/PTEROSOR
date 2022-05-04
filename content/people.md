@@ -89,7 +89,7 @@ CNRS senior researcher (NEEL institute, Grenoble, France)
 
 <li><b> <a href="https://www.lcpq.ups-tlse.fr/spip.php?rubrique313&lang=fr">Martial Boggio-Pasqua</a></b>
 <br>
-CNRS researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
+CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
 
 <li><b> <a href="http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en">Pina Romaniello</a></b>
 <br>
