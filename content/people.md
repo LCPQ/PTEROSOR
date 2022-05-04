@@ -37,6 +37,7 @@ A. Scemama received his Ph.D. in Computational and Theoretical Chemistry from th
 Postdoc, ERC
 
 <img class="photo" src="/img/FKossoski.png" alt="Fabris" />
+F. Kossoski obtained his PhD degree in Physics from University of São Paulo, Brazil, which was followed by postdoc positions at the University of Campinas, Brazil, and at the Aix-Marseille University, France. He is currently working on the development and implementation of electronic structure methods, particularly targeted for molecular excited states. His main research interests are focused on electronic structure and scattering theory, electron-molecule collisions, nonadiabatic dynamics of molecules, photochemistry, and photoabsorption spectroscopy. He is also working on software development for theoretical chemistry, contributing to the Quantum Package, Newton-X, and Schwinger multichannel codes.
 
 ### <a href="http://orcid.org/0000-0002-4518-5497">Raul Quintero-Monsebaiz</a>
 Postdoc, ERC
