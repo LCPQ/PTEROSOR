@@ -4,6 +4,11 @@ date: 2020-12-02 09:00
 draft: false
 ---
 
+## Extended (PTEROSOR + T-REX) group picture
+
+<img src="img/group.jpg" width="200">
+From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
+
 ## Recent News
 
 * **Oct 2022:** Antoine Marie has (re)joined the group as a PhD student. Welcome back Antoine!
