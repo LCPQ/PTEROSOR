@@ -14,8 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/presentations/</guid>
-      <description> for (i in pub) { // Skip presentations if ((pub[i].docType_s == &#34;UNDEFINED&#34;) &amp;&amp; !pub[i].arxivId_s) { title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].files_s[0]; } catch (error) { url = pub[i].fileMainAnnex_s; }; authors = pub[i].authFullName_s[0]; for (j=1 ; j &#34; + title + &#34;
-&#34; + &#34;&#34; + authors + &#34;&#34; + &#34;&#34;; listElement.appendChild(listItem); } } </description>
+      <description>for (i in pub) { // Skip presentations if ((pub[i].docType_s == &#34;UNDEFINED&#34;) &amp;&amp; !pub[i].arxivId_s) { title = pub[i].title_s; arxivId = pub[i].arxivId_s; citationRef = pub[i].citationRef_s; try { url = pub[i].files_s[0]; } catch (error) { url = pub[i].fileMainAnnex_s; }; authors = pub[i].authFullName_s[0]; for (j=1 ; j &lt; pub[i].authFullName_s.length ; j++) { authors += &#34;, &#34; + pub[i].authFullName_s[j]; } listItem = document.createElement(&#39;li&#39;); listItem.innerHTML = &#34;</description>
     </item>
     
     <item>
@@ -24,7 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/meeting/</guid>
-      <description>Documents All the material related to the PTEROSOR group meeting can be found here.  Videos  window.onload = async function () { const nResults = &#34;5&#34;; const url = &#34;https://www.googleapis.com/youtube/v3/search?key=AIzaSyBNTN7ZM3WA4OUXaSJ7U58sBjBtWNnVnrs&amp;channelId=UCPUtUMqEM3K5sYcMJGTd_Bg&amp;part=snippet,id&amp;order=date&amp;maxResults=&#34;+nResults; list = await fetch(url).then(function (response) { return response.json(); }).then(function (response) { return response.items; }); listContainer = document.getElementById(&#34;videos&#34;); listElement = document.createElement(&#39;ul&#39;); listContainer.appendChild(listElement); promises = []; for (item in list) { var x = async () = { title = list[item].</description>
+      <description> Documents All the material related to the PTEROSOR group meeting can be found here. Videos </description>
     </item>
     
     <item>
@@ -34,7 +33,7 @@
       <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/people/</guid>
       <description>People funded by the ERC Pierre-François Loos CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, France)
-img.photo { height: 250px; border-radius: 50%; }  P.-F. Loos (aka Titou) received his Ph.D. in Computational and Theoretical Chemistry from the Université Henri Poincaré (Nancy, France) in 2008. From 2009 to 2013, He was undertaking postdoctoral research with Peter M.W. Gill at the Australian National University (ANU). From 2013 to 2017, he was a &#34;</description>
+P.-F. Loos (aka Titou) received his Ph.D. in Computational and Theoretical Chemistry from the Université Henri Poincaré (Nancy, France) in 2008. From 2009 to 2013, He was undertaking postdoctoral research with Peter M.W. Gill at the Australian National University (ANU). From 2013 to 2017, he was a &#34;Discovery Early Career Researcher Award&#34; recipient and, then, a senior lecturer at the ANU.</description>
     </item>
     
     <item>
@@ -43,7 +42,7 @@ img.photo { height: 250px; border-radius: 50%; }  P.-F. Loos (aka Titou) receive
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/publications/</guid>
-      <description>Oral presentations Please wait...  Publications Please wait...   window.onload = async function () { /* Get list of publication */ pub = await fetch(&#39;https://api.archives-ouvertes.fr/search/?q=europeanProject_t:pterosor&amp;indent=true&amp;fl=citationRef_s,arxivId_s,files_s,title_s,abstract_s,authFullName_s,doiId_s,uri_s,fileMainAnnex_s,docType_s&amp;group=false&amp;start=0&amp;rows=10000&amp;fq=docType_s:(ART+OR+COMM+OR+OUV+OR+COUV+OR+DOUV+OR+OTHER+OR+UNDEFINED+OR+REPORT+OR+THESE+OR+HDR)&amp;sort=publicationDate_tdate%20desc&#39;).then(function (response) { return response.json(); }).then(function (response) { return response.response.docs; }); listContainer = document.getElementById(&#39;presentations&#39;); listElementPres = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElementPres); listContainer = document.getElementById(&#39;publications&#39;); listElementPub = document.createElement(&#39;ul&#39;); listContainer.innerHTML=&#34;&#34;; listContainer.appendChild(listElementPub); for (i in pub) { var is_presentation = (pub[i].docType_s == &#34;UNDEFINED&#34;) &amp;&amp; !pub[i].arxivId_s ; if (is_presentation) { listElement = listElementPres; } else { listElement = listElementPub ; } title = pub[i].</description>
+      <description> Oral presentations Please wait... Publications Please wait... </description>
     </item>
     
     <item>
@@ -52,7 +51,7 @@ img.photo { height: 250px; border-radius: 50%; }  P.-F. Loos (aka Titou) receive
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>loos@irsamc.ups-tlse.fr (Titou Loos)</author>
       <guid>https://lcpq.github.io/PTEROSOR/software/</guid>
-      <description>Please wait...   window.onload = async function () { /* Get list of repositories */ // var proxyUrl = &#39;https://cors-anywhere.herokuapp.com/&#39;; var proxyUrl = &#39;&#39;; var targetUrl = &#39;https://git.irsamc.ups-tlse.fr/api/v1/orgs/pterosor/repos&#39;; software = await fetch(proxyUrl + targetUrl).then(function (response) { return response.json(); }).then(function (response) { return response; }); /* Display list of repositories */ listContainer = document.getElementById(&#39;software&#39;); listElement = document.createElement(&#39;ul&#39;), listContainer.innerHTML = &#34;&#34;; listContainer.appendChild(listElement); for (repo in software) { if (software[repo].mirror) { name = software[repo].</description>
+      <description> Please wait... </description>
     </item>
     
   </channel>
