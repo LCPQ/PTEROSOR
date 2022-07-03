@@ -12,11 +12,12 @@ draft: false
 ## Recent News
 
 * **Oct 2022:** Antoine Marie (re)joins the group as a PhD student. Welcome back Antoine!
+* **Jul 2022:** Enzo's paper on [the excited states and the automerization barrier of cyclobutadiene](https://arxiv.org/pdf/2204.05098.pdf) has been accepted for publication to JPCA!
 * **Jul 2022:** Enzo, Raul, and Fabris present posters at the [12th triennial congress of WATOC](https://www.cheminst.ca/conference/watoc-2020/) in Vancouver!
 * **Jun 2022:** Yann, Enzo, Raul, and Fabris participate to the [2022 RCTF congress](https://rctf2022.sciencesconf.org) in Bordeaux!
 * **Jun 2022:** Yann, Enzo, and Raul participate to the [Math mini-school](https://wiki.lct.jussieu.fr/gdrnbody/index.php/MINI-SCHOOL_2022) in Paris!
 * **May 2022:** Fabris is part of the invited speakers for the [2022 Young Researchers' Meeting](https://www.etsfyrm2022.com/invited-speakers#h.yhdsaayicnzo) in Marseille!
-* **May 2022:** Enzo's paper on [unphysical discontinuities, intruder states and regularization in GW methods](https://arxiv.org/pdf/2202.11589.pdf) has been accepted for publication to JCP!
+* **May 2022:** Enzo's paper on [unphysical discontinuities, intruder states and regularization in GW methods](https://doi.org/10.1063/5.0089317) has been accepted for publication to JCP!
 * **Apr 2022:** Fabris' paper on [hierarchy CI](https://pubs.acs.org/doi/10.1021/acs.jpclett.2c00730?ref=PDF) has been accepted for publication in JPCL!
 * **Oct 2021:** Yann Damour (re)joins the group as a PhD student. Welcome back Yann!
 * **Aug 2021:** Antoine's paper on [variational pair CCD for ground and excited states](https://aip.scitation.org/doi/full/10.1063/5.0060698) has been accepted in JCP! 
