@@ -13,8 +13,8 @@ draft: false
 
 * **Oct 2022:** Yann and Enzo are presenting their work at the [JTMS 2022](https://jtms2022.sciencesconf.org).
 * **Oct 2022:** Raul, Enzo, and Antoine's paper on the connections between coupled cluster and many-body perturbation theory has been submitted for publication in JCP.
-* **Oct 2022:** The PTEROSOR team is organizing a workshop on emerging electronic structure methods for excited states in April 2023. More info [here](https://pfloos.github.io/PTEROSOR_midterm_workshop/).
 * **Oct 2022:** Antoine Marie (re)joins the group as a PhD student. Welcome back Antoine!
+* **Sep 2022:** The PTEROSOR team is organizing a workshop on emerging electronic structure methods for excited states in April 2023. More info [here](https://pfloos.github.io/PTEROSOR_midterm_workshop/).
 * **Jul 2022:** Enzo's paper on [the excited states and the automerization barrier of cyclobutadiene](https://arxiv.org/pdf/2204.05098.pdf) has been accepted for publication to JPCA!
 * **Jul 2022:** Enzo, Raul, and Fabris present posters at the [12th triennial congress of WATOC](https://www.cheminst.ca/conference/watoc-2020/) in Vancouver!
 * **Jun 2022:** Yann, Enzo, Raul, and Fabris participate to the [2022 RCTF congress](https://rctf2022.sciencesconf.org) in Bordeaux!
