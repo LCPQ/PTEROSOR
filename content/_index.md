@@ -11,7 +11,7 @@ draft: false
 
 ## Recent News
 
-* **Nov 2022:** Yann' paper on [ground and excited-state dipole moments](https://arxiv.org/pdf/2211.03048.pdf) has been submitted for publication to JCTC.
+* **Nov 2022:** Yann's paper on [ground- and excited-state dipole moments](https://arxiv.org/pdf/2211.03048.pdf) has been submitted for publication to JCTC.
 * **Nov 2022:** Fabris' paper on [state-specific CI methods for excited states](https://arxiv.org/pdf/2211.03048.pdf) has been submitted for publication to JPCL.
 * **Oct 2022:** Yann and Enzo are presenting their work at the [JTMS 2022](https://jtms2022.sciencesconf.org).
 * **Oct 2022:** Raul, Enzo, and Antoine's paper on [the connections between coupled cluster and many-body perturbation theory](https://arxiv.org/pdf/2210.07043.pdf) has been submitted for publication to JCP.
