@@ -14,7 +14,7 @@ draft: false
 * **Nov 2022:** Yann's paper on [ground- and excited-state dipole moments](https://arxiv.org/pdf/2211.03048.pdf) has been submitted for publication to JCTC.
 * **Nov 2022:** Fabris' paper on [state-specific CI methods for excited states](https://arxiv.org/pdf/2211.03048.pdf) has been submitted for publication to JPCL.
 * **Oct 2022:** Yann and Enzo are presenting their work at the [JTMS 2022](https://jtms2022.sciencesconf.org).
-* **Oct 2022:** Raul, Enzo, and Antoine's paper on [the connections between coupled cluster and many-body perturbation theory](https://arxiv.org/pdf/2210.07043.pdf) has been submitted for publication to JCP.
+* **Oct 2022:** Raul, Enzo, and Antoine's paper on [the connections between coupled-cluster and many-body perturbation theory](https://arxiv.org/pdf/2210.07043.pdf) has been submitted for publication to JCP.
 * **Oct 2022:** Antoine Marie (re)joins the group as a PhD student. Welcome back Antoine!
 * **Sep 2022:** The PTEROSOR team is organizing a workshop on emerging electronic structure methods for excited states in April 2023. More info [here](https://pfloos.github.io/PTEROSOR_midterm_workshop/).
 * **Jul 2022:** Enzo's paper on [the excited states and the automerization barrier of cyclobutadiene](https://pubs.acs.org/doi/10.1021/acs.jpca.2c02480) has been accepted for publication to JPCA!
