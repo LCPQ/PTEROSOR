@@ -59,6 +59,7 @@ PhD Student, ERC
 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
+<!-- 
 # Other group members
 
 ### <a href="https://www.researchgate.net/profile/Clotilde_Marut">Clotilde Marut</a>
@@ -69,7 +70,6 @@ PhD Student, UPS
 ### Roberto Orlando 
 PhD Student, 80|PRIME
 
-<!-- 
 -->
 
 # Collaborators
