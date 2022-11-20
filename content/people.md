@@ -66,10 +66,10 @@ PhD Student, UPS
 
 <img class="photo" src="/img/CMarut.jpg" alt="Clotilde" />
 
-<!-- 
 ### Roberto Orlando 
 PhD Student, 80|PRIME
 
+<!-- 
 -->
 
 # Collaborators
