@@ -44,7 +44,12 @@ Postdoc, ERC
 
 <img class="photo" src="/img/RQuintero.jpg" alt="Raul" />
 
-### <a href="https://www.lcpq.ups-tlse.fr/spip.php?article1988&lang=en">Enzo Monino 
+### <a href="https://scholar.google.com/citations?user=Sf-pfv4AAAAJ&hl=en">Sara Giarrusso</a>
+Postdoc, ERC
+
+<img class="photo" src="/img/SGiarrusso.jpg" alt="Sara" />
+
+### Enzo Monino
 PhD Student, ERC
 
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
