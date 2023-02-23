@@ -11,7 +11,8 @@ draft: false
 
 ## Recent News
 
-* **Feb 2022:** Sara Giarrusso joins the group as a postdoc. Welcome Sara!
+* **Mar 2023:** The PTEROSOR group is going to a three-day coding retreat.
+* **Feb 2023:** Sara Giarrusso joins the group as a postdoc. Welcome Sara!
 * **Nov 2022:** Yann's paper on [ground- and excited-state dipole moments](https://arxiv.org/pdf/2211.04120.pdf) has been accepted for publication to JCTC.
 * **Nov 2022:** Fabris' paper on [state-specific CI methods for excited states](https://arxiv.org/pdf/2211.03048.pdf) has been submitted for publication.
 * **Oct 2022:** Yann and Enzo are presenting their work at the [JTMS 2022](https://jtms2022.sciencesconf.org).
