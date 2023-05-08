@@ -54,28 +54,15 @@ PhD Student, ERC
 
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
 
-### Yann Damour
+### <a href"https://www.researchgate.net/profile/Yann-Damour">Yann Damour</a>
 PhD Student, ERC
 
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
-### Antoine Marie
+### <a href="https://antoine-marie.github.io">Antoine Marie</a>
 PhD Student, ERC
 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
-
-<!-- 
-# Other group members
-
-### <a href="https://www.researchgate.net/profile/Clotilde_Marut">Clotilde Marut</a>
-PhD Student, UPS
-
-<img class="photo" src="/img/CMarut.jpg" alt="Clotilde" />
-
-### Roberto Orlando 
-PhD Student, 80|PRIME
-
--->
 
 # Collaborators
 
