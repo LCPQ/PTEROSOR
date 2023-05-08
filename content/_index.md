@@ -11,6 +11,7 @@ From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, V
 
 ## Recent News
 
+* **Apr 2023:** The [PTEROSOR mid-term workshop](https://pfloos.github.io/PTEROSOR_midterm_workshop/) on excited-state methods in electronic structure was held in Toulouse early April and gathered 50 researchers from many different countries! 
 * **Mar 2023:** The PTEROSOR group is going on a three-day coding retreat.
 * **Feb 2023:** Sara Giarrusso joins the group as a postdoc. Welcome Sara!
 * **Nov 2022:** Yann's paper on [ground- and excited-state dipole moments](https://arxiv.org/pdf/2211.04120.pdf) has been accepted for publication to JCTC.
