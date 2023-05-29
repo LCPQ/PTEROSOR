@@ -11,11 +11,14 @@ From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, V
 
 ## Recent News
 
+* **May 2023:** Enzo's paper on the [the connections and performances of Green's function methods for charged and neutral excitations](https://arxiv.org/pdf/2305.16959.pdf) has been submitted for publication in JCP.
+* **May 2023:** Antoine's paper on the application of the [similarity renormalization group approach to Green's function methods](https://arxiv.org/pdf/2303.05984.pdf) has been accepted for publication in JCTC.
+* **Apr 2023:** Sara's paper on the [exact excited-state functionals of the asymmetric Hubbard dimer](https://arxiv.org/pdf/2303.15084.pdf) has been submitted for publication in PRL.
 * **Apr 2023:** The [PTEROSOR mid-term workshop](https://pfloos.github.io/PTEROSOR_midterm_workshop/) on excited-state methods in electronic structure was held in Toulouse early April and gathered 50 researchers from many different countries! 
+* **Mar 2023:** Fabris' paper on [state-specific CI methods for excited states](https://arxiv.org/pdf/2211.03048.pdf) has been accepted for publication in JCTC.
 * **Mar 2023:** The PTEROSOR group is going on a three-day coding retreat.
 * **Feb 2023:** Sara Giarrusso joins the group as a postdoc. Welcome Sara!
 * **Nov 2022:** Yann's paper on [ground- and excited-state dipole moments](https://arxiv.org/pdf/2211.04120.pdf) has been accepted for publication to JCTC.
-* **Nov 2022:** Fabris' paper on [state-specific CI methods for excited states](https://arxiv.org/pdf/2211.03048.pdf) has been submitted for publication.
 * **Oct 2022:** Yann and Enzo are presenting their work at the [JTMS 2022](https://jtms2022.sciencesconf.org).
 * **Oct 2022:** Raul, Enzo, and Antoine's paper on [the connections between coupled-cluster and many-body perturbation theory](https://arxiv.org/pdf/2210.07043.pdf) has been accepted for publication in JCP.
 * **Oct 2022:** Antoine Marie (re)joins the group as a PhD student. Welcome back Antoine!
