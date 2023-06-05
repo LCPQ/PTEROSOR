@@ -10,7 +10,9 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
+https://arxiv.org/pdf/2306.01573.pdf
 
+* **June 2023:** Raul's paper on the [the automatic generation of the EOM-CC equations](https://arxiv.org/pdf/2306.01573.pdf) has been submitted for publication in JCP.
 * **May 2023:** Enzo's paper on the [the connections and performances of Green's function methods for charged and neutral excitations](https://arxiv.org/pdf/2305.16959.pdf) has been submitted for publication in JCP.
 * **May 2023:** Antoine's paper on the application of the [similarity renormalization group approach to Green's function methods](https://arxiv.org/pdf/2303.05984.pdf) has been accepted for publication in JCTC.
 * **Apr 2023:** Sara's paper on the [exact excited-state functionals of the asymmetric Hubbard dimer](https://arxiv.org/pdf/2303.15084.pdf) has been submitted for publication in PRL.
