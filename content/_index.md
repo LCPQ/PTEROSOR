@@ -11,11 +11,11 @@ From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, V
 
 ## Recent News
 
-* **June 2023:** Enzo's paper on the [the connections and performances of Green's function methods for charged and neutral excitations](https://arxiv.org/pdf/2305.16959.pdf) has been accepted for publication in JCP.
-* **June 2023:** Raul's paper on the [the automatic generation of the EOM-CC equations](https://arxiv.org/pdf/2306.01573.pdf) has been submitted for publication in JCP.
-* **May 2023:** Antoine's paper on the application of the [similarity renormalization group approach to Green's function methods](https://arxiv.org/pdf/2303.05984.pdf) has been accepted for publication in JCTC.
-* **Apr 2023:** Sara's paper on the [exact excited-state functionals of the asymmetric Hubbard dimer](https://arxiv.org/pdf/2303.15084.pdf) has been submitted for publication in PRL.
-* **Apr 2023:** The [PTEROSOR mid-term workshop](https://pfloos.github.io/PTEROSOR_midterm_workshop/) on excited-state methods in electronic structure was held in Toulouse early April and gathered 50 researchers from many different countries! 
+* **June 2023:** Enzo's paper on the [the connections and performances of Green's function methods for charged and neutral excitations](https://doi.org/10.1063/5.0159853) has been accepted for publication in JCP.
+* **June 2023:** Raul's paper on the [the automatic generation of the EOM-CC equations](https://doi.org/10.1063/5.0163846) has been accepted for publication in AIP Advances.
+* **May 2023:** Antoine's paper on the application of the [similarity renormalization group approach to Green's function methods](https://doi.org/10.1021/acs.jctc.3c00281) has been accepted for publication in JCTC.
+* **Apr 2023:** Sara's paper on the [exact excited-state functionals of the asymmetric Hubbard dimer](https://arxiv.org/pdf/2303.15084.pdf) has been accepted for publication in JPCL.
+* **Apr 2023:** The [PTEROSOR mid-term workshop](https://pfloos.github.io/PTEROSOR_midterm_workshop/) on excited-state methods in electronic structure was held in Toulouse in early April and gathered 50 researchers from many different countries! 
 * **Mar 2023:** Fabris' paper on [state-specific CI methods for excited states](https://arxiv.org/pdf/2211.03048.pdf) has been accepted for publication in JCTC.
 * **Mar 2023:** The PTEROSOR group is going on a three-day coding retreat.
 * **Feb 2023:** Sara Giarrusso joins the group as a postdoc. Welcome Sara!
