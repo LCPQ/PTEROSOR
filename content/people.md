@@ -44,7 +44,7 @@ PhD Student, ERC
 
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
 
-### [Yann Damour](https://www.researchgate.net/profile/Yann-Damour)
+### [Yann Damour(https://ydrnan.github.io/damour.github.io/)
 PhD Student, ERC
 
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
