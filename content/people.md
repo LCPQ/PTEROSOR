@@ -34,37 +34,37 @@ A. Scemama received his Ph.D. in Computational and Theoretical Chemistry from th
 (France) to work on computational methods and high-performance computing for quantum chemistry. He was awarded the Crystal medal of the CNRS in 2019.
 
 ### [Fabris Kossoski](https://kossoski.github.io)
-Postdoc, ERC
+Postdoc, ERC (2020-)
 
 <img class="photo" src="/img/FKossoski.jpg" alt="Fabris" />
 F. Kossoski obtained his PhD degree in Physics from University of São Paulo, Brazil, which was followed by postdoc positions at the University of Campinas, Brazil, and at the Aix-Marseille University, France. He is currently working on the development and implementation of electronic structure methods, particularly targeted for molecular excited states. His main research interests are focused on electronic structure and scattering theory, electron-molecule collisions, nonadiabatic dynamics of molecules, photochemistry, and photoabsorption spectroscopy. He is also working on software development for theoretical chemistry, contributing to the Quantum Package, Newton-X, and Schwinger multichannel codes.
 
-### [Enzo Monino](https://enzomonino.github.io)
-PhD Student, ERC
-
-<img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
-
 ### [Yann Damour(https://ydrnan.github.io/damour.github.io/)
-PhD Student, ERC
+PhD Student, ERC (2021-)
 
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
 
 ### [Antoine Marie](https://antoine-marie.github.io)
-PhD Student, ERC
+PhD Student, ERC (2022-)
 
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
 # Previous members
 
 ### [Raul Quintero-Monsebaiz](http://orcid.org/0000-0002-4518-5497)
-Postdoc, ERC
+Postdoc, ERC (2022-2023)
 
 <img class="photo" src="/img/RQuintero.jpg" alt="Raul" />
 
 ### [Sara Giarrusso](https://scholar.google.com/citations?user=Sf-pfv4AAAAJ&hl=en)
-Postdoc, ERC
+Postdoc, ERC (2023)
 
 <img class="photo" src="/img/SGiarrusso.jpg" alt="Sara" />
+
+### [Enzo Monino](https://enzomonino.github.io)
+PhD Student, ERC (2020-2023)
+
+<img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
 
 # Collaborators
 
