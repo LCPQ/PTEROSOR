@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>loos@irsamc.ups-tlse.fr (Titou Loos)</managingEditor>
-    <webMaster>loos@irsamc.ups-tlse.fr (Titou Loos)</webMaster><atom:link href="https://lcpq.github.io/PTEROSOR/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>loos@irsamc.ups-tlse.fr (Titou Loos)</webMaster>
+    <atom:link href="https://lcpq.github.io/PTEROSOR/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
