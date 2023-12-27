@@ -71,7 +71,7 @@ PhD Student, ERC (2020-2023)
 <ul>
 <li><b> <a href="https://www.hughburton.com">Hugh Burton</a></b>
 <br>
-Research Fellow (University of Oxford, Oxford, UK)
+Research Fellow (University of Cambridge, Cambridge, UK)
 
 <li><b> <a href="https://www.univ-nantes.fr/denis-jacquemin">Denis Jacquemin</a></b>
 <br>
@@ -87,7 +87,7 @@ CNRS senior researcher (Laboratoire de Chimie et Physique Quantiques, Toulouse, 
 
 <li><b> <a href="http://www.lpt.ups-tlse.fr/spip.php?article54&lang=en">Pina Romaniello</a></b>
 <br>
-CNRS researcher (Laboratoire de Physique Théorique, Toulouse, France)
+CNRS senior researcher (Laboratoire de Physique Théorique, Toulouse, France)
 
 <li><b> <a href="https://www.lcpq.ups-tlse.fr/berger">Arjan Berger</a></b>
 <br>
