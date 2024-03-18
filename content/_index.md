@@ -10,7 +10,10 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
-
+* **Mar 2024:** Antoine's paper on [Reference energies for valence ionizations and satellite transitions](https://arxiv.org/pdf/2402.13877.pdf) has been submitted to JCTC.
+* **Mar 2024:** Yann's paper on [State-specific coupled-cluster methods for excited states](https://arxiv.org/pdf/2401.05048.pdf) has been accepted for publication in JCTC.
+* **Dec 2023:** Fabris' paper on [Seniority and hierarchy configuration interaction for radicals and excited states](https://doi.org/10.1021/acs.jctc.3c00946) has been accepted for publication in JCTC.
+* **Oct 2023:** Enzo Monino has successfully defended his PhD dissertation entitled *"Green's function methods for charged and neutral excitations"*.
 * **Sep 2023:** Enzo and Antoine's paper describing [QCMATH](https://github.com/LCPQ/qcmath) is available on [arXiv](https://arxiv.org/pdf/2308.14890.pdf).
 * **Jun 2023:** Enzo's paper on the [the connections and performances of Green's function methods for charged and neutral excitations](https://doi.org/10.1063/5.0159853) has been accepted for publication in JCP.
 * **Jun 2023:** Raul's paper on the [the automatic generation of the EOM-CC equations](https://doi.org/10.1063/5.0163846) has been accepted for publication in AIP Advances.
