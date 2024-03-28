@@ -10,6 +10,7 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
+* **Apr 2024:** Abdallah Ammar joins the group as a postdoc. Welcome Abdallah!
 * **Mar 2024:** Antoine's paper on [Reference energies for valence ionizations and satellite transitions](https://arxiv.org/pdf/2402.13877.pdf) has been submitted to JCTC.
 * **Mar 2024:** Yann's paper on [State-specific coupled-cluster methods for excited states](https://arxiv.org/pdf/2401.05048.pdf) has been accepted for publication in JCTC.
 * **Dec 2023:** Fabris' paper on [Seniority and hierarchy configuration interaction for radicals and excited states](https://doi.org/10.1021/acs.jctc.3c00946) has been accepted for publication in JCTC.
