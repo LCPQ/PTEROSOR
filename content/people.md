@@ -42,7 +42,7 @@ F. Kossoski obtained his PhD degree in Physics from University of São Paulo, Br
 ### [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en)
 Postdoc, ERC (2024-)
 
-<img class="photo" src="/img/AAmmar.jpg" alt="Fabris" />
+<img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
 
 ### [Yann Damour](https://ydrnan.github.io/damour.github.io/)
 PhD Student, ERC (2021-)
