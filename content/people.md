@@ -39,6 +39,11 @@ Postdoc, ERC (2020-)
 <img class="photo" src="/img/FKossoski.jpg" alt="Fabris" />
 F. Kossoski obtained his PhD degree in Physics from University of São Paulo, Brazil, which was followed by postdoc positions at the University of Campinas, Brazil, and at the Aix-Marseille University, France. He is currently working on the development and implementation of electronic structure methods, particularly targeted for molecular excited states. His main research interests are focused on electronic structure and scattering theory, electron-molecule collisions, nonadiabatic dynamics of molecules, photochemistry, and photoabsorption spectroscopy. He is also working on software development for theoretical chemistry, contributing to the Quantum Package, Newton-X, and Schwinger multichannel codes.
 
+### [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en)
+Postdoc, ERC (2024-)
+
+<img class="photo" src="/img/AAmmar.jpg" alt="Fabris" />
+
 ### [Yann Damour](https://ydrnan.github.io/damour.github.io/)
 PhD Student, ERC (2021-)
 
