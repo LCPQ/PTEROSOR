@@ -44,7 +44,7 @@ Postdoc, ERC (2024-)
 
 <img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
 
-### [Yann Damour](https://ydrnan.github.io/damour.github.io/)
+### [Yann Damour](https://ydrnan.github.io/damour/)
 PhD Student, ERC (2021-)
 
 <img class="photo" src="/img/YDamour.jpg" alt="Yann" />
