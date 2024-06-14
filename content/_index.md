@@ -10,6 +10,7 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
+* **Jun 2024:** Antoine's paper on [anomalous propagators and the particle-particle channel](https://arxiv.org/abs/2406.07062) has been submitted to PRB for publication.
 * **Apr 2024:** Abdallah Ammar joins the group as a postdoc. Welcome Abdallah!
 * **Mar 2024:** Antoine's paper on [Reference energies for valence ionizations and satellite transitions](https://doi.org/10.1021/acs.jctc.4c00216) has been accepted for publication in JCTC.
 * **Mar 2024:** Yann's paper on [State-specific coupled-cluster methods for excited states](https://doi.org/10.1021/acs.jctc.4c00034) has been accepted for publication in JCTC.
