@@ -13,7 +13,7 @@ From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, V
 * **Sep 2024:** Yann Damour has submitted his PhD manuscript. Congrats Yann!
 * **Aug 2024:** Antoine's paper on [anomalous propagators and the particle-particle channel](https://arxiv.org/abs/2406.07062) has been accepted to PRB for publication.
 * **Jul 2024:** Fabris Kossoski secured a permanent CNRS position. Congrats Fabris!
-* **Jun 2024:** Yann's paper on [Selected configuration interaction for resonances](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02060) has been accepted to JPCL for publication.
+* **Jun 2024:** Yann's paper on [selected configuration interaction for resonances](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02060) has been accepted to JPCL for publication.
 * **Apr 2024:** Abdallah Ammar joins the group as a postdoc. Welcome Abdallah!
 * **Mar 2024:** Antoine's paper on [reference energies for valence ionizations and satellite transitions](https://doi.org/10.1021/acs.jctc.4c00216) has been accepted for publication in JCTC.
 * **Mar 2024:** Yann's paper on [state-specific coupled-cluster methods for excited states](https://doi.org/10.1021/acs.jctc.4c00034) has been accepted for publication in JCTC.
