@@ -1,6 +1,5 @@
 ---
 title: "People"
-date: 2019-09-30 11:30
 draft: false
 ---
 

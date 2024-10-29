@@ -1,6 +1,5 @@
 ---
 title: "Welcome"
-date: 2020-12-02 09:00
 draft: false
 ---
 
@@ -10,7 +9,8 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
-* **Sep 2024:** Yann Damour has succesfully defended his PhD. Congrats Dr Damour!
+* **Sep 2024:** Yann Damour has succesfully defended his PhD entitled *"Highly Accurate Computational Strategies for Molecular
+Electronic States"*. Congrats Dr Damour!
 * **Aug 2024:** Antoine's paper on [anomalous propagators and the particle-particle channel](https://arxiv.org/abs/2406.07062) has been accepted to PRB for publication.
 * **Jul 2024:** Fabris Kossoski secured a permanent CNRS position. Congrats Fabris!
 * **Jun 2024:** Yann's paper on [selected configuration interaction for resonances](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02060) has been accepted to JPCL for publication.
