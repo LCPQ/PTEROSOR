@@ -16,10 +16,11 @@ jobs:
         run: sudo apt update
 
       - name: install dependencies
-        run: sudo apt install snap
+        run: sudo apt install wget
 
       - name: install hugo
-        run: sudo apt install https://github.com/gohugoio/hugo/releases/download/v0.122.0/hugo_extended_0.122.0_linux-amd64.deb
+        run: wget https://github.com/gohugoio/hugo/releases/download/v0.122.0/hugo_extended_0.122.0_linux-amd64.deb
+        run: sudo apt install hugo_extended_0.122.0_linux-amd64.deb
 #       run: sudo snap install hugo --channel=extended
 
       - name: install theme
