@@ -32,9 +32,6 @@ CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, 
 A. Scemama received his Ph.D. in Computational and Theoretical Chemistry from the Université Pierre et Marie Curie (Paris, France) in 2004. He then moved to the Netherlands for a one-year postdoctoral stay in the group of Claudia Filippi, and came back in France for another year in the group of Eric Cancès. In 2006, he obtained a Research Engineer position from the "Centre National de la Recherche Scientifique" (CNRS) at the Laboratoire de Chimie et Physique Quantiques in Toulouse
 (France) to work on computational methods and high-performance computing for quantum chemistry. He was awarded the Crystal medal of the CNRS in 2019.
 
-<img class="photo" src="/img/FKossoski.jpg" alt="Fabris" />
-F. Kossoski obtained his PhD degree in Physics from University of São Paulo, Brazil, which was followed by postdoc positions at the University of Campinas, Brazil, and at the Aix-Marseille University, France. He is currently working on the development and implementation of electronic structure methods, particularly targeted for molecular excited states. His main research interests are focused on electronic structure and scattering theory, electron-molecule collisions, nonadiabatic dynamics of molecules, photochemistry, and photoabsorption spectroscopy. He is also working on software development for theoretical chemistry, contributing to the Quantum Package, Newton-X, and Schwinger multichannel codes.
-
 ### [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en)
 Postdoc, ERC (2024-2025)
 
