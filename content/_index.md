@@ -9,7 +9,7 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
-* **Jan 2025:** Abdallah Ammar has left the group to start his permanent position as a CNRS research engineer at the LPCT in Nancy.
+* **Jan 2025:** Abdallah Ammar has left the group to start a permanent position as CNRS research engineer at the LPCT in Nancy.
 * **Dec 2024:** Yann Damour has joined the group of [Sandeep Sharma](https://cce.caltech.edu/people/sandeep-sharma?back_url=%2Fpeople%3Fcategory%3D3)) in Caltech as a postdoctoral fellow.
 * **Oct 2024:** Yann Damour has succesfully defended his PhD entitled *"Highly Accurate Computational Strategies for Molecular
 Electronic States"*. Congrats Dr Damour!
