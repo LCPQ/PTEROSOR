@@ -10,7 +10,7 @@ From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, V
 
 ## Recent News
 * **Jan 2025:** Abdallah Ammar has left the group to start a permanent position as CNRS research engineer at the LPCT in Nancy.
-* **Dec 2024:** Yann Damour has joined the group of [Sandeep Sharma](https://cce.caltech.edu/people/sandeep-sharma?back_url=%2Fpeople%3Fcategory%3D3)) in Caltech as a postdoctoral fellow.
+* **Dec 2024:** Yann Damour has joined the group of [Sandeep Sharma](https://cce.caltech.edu/people/sandeep-sharma?back_url=%2Fpeople%3Fcategory%3D3) in Caltech as a postdoctoral fellow.
 * **Oct 2024:** Yann Damour has succesfully defended his PhD entitled *"Highly Accurate Computational Strategies for Molecular
 Electronic States"*. Congrats Dr Damour!
 * **Aug 2024:** Antoine's paper on [anomalous propagators and the particle-particle channel](https://arxiv.org/abs/2406.07062) has been accepted to PRB for publication.
