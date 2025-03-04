@@ -9,11 +9,13 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
+* **Feb 2025:** Antoine's paper on [anomalous propagators and the particle-particle channel: Bethe-Salpeter
+equation](https://arxiv.org/abs/2411.13167) has been accepted to JCP for publication.
 * **Jan 2025:** Abdallah Ammar has left the group to start a permanent position as CNRS research engineer at the LPCT in Nancy.
 * **Dec 2024:** Yann Damour has joined the group of [Sandeep Sharma](https://cce.caltech.edu/people/sandeep-sharma?back_url=%2Fpeople%3Fcategory%3D3) in Caltech as a postdoctoral fellow.
 * **Oct 2024:** Yann Damour has succesfully defended his PhD entitled *"Highly Accurate Computational Strategies for Molecular
 Electronic States"*. Congrats Dr Damour!
-* **Aug 2024:** Antoine's paper on [anomalous propagators and the particle-particle channel](https://arxiv.org/abs/2406.07062) has been accepted to PRB for publication.
+* **Aug 2024:** Antoine's paper on [anomalous propagators and the particle-particle channel: Hedin's equations](https://arxiv.org/abs/2406.07062) has been accepted to PRB for publication.
 * **Jul 2024:** Fabris Kossoski secured a permanent CNRS position. Congrats Fabris!
 * **Jun 2024:** Yann's paper on [selected configuration interaction for resonances](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c02060) has been accepted to JPCL for publication.
 * **Apr 2024:** Abdallah Ammar joins the group as a postdoc. Welcome Abdallah!
