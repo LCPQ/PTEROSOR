@@ -10,7 +10,7 @@ From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, V
 
 ## Recent News
 * **Apr 2025:** The [PTEROSOR end-of-term workshop](https://lcpq.github.io/PTEROSOR_endofterm_workshop) on excited-state methods in electronic structure was held in Toulouse in early April and gathered 50 researchers from many different countries!
-* * **Feb 2025:** Antoine's paper on [anomalous propagators and the particle-particle channel: Bethe-Salpeter
+* **Feb 2025:** Antoine's paper on [anomalous propagators and the particle-particle channel: Bethe-Salpeter
 equation](https://arxiv.org/abs/2411.13167) has been accepted to JCP for publication.
 * **Jan 2025:** Abdallah Ammar has left the group to start a permanent position as CNRS research engineer at the LPCT in Nancy.
 * **Dec 2024:** Yann Damour has joined the group of [Sandeep Sharma](https://cce.caltech.edu/people/sandeep-sharma?back_url=%2Fpeople%3Fcategory%3D3) in Caltech as a postdoctoral fellow.
