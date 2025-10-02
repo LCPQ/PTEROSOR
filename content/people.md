@@ -32,39 +32,34 @@ CNRS research engineer (Laboratoire de Chimie et Physique Quantiques, Toulouse, 
 A. Scemama received his Ph.D. in Computational and Theoretical Chemistry from the Université Pierre et Marie Curie (Paris, France) in 2004. He then moved to the Netherlands for a one-year postdoctoral stay in the group of Claudia Filippi, and came back in France for another year in the group of Eric Cancès. In 2006, he obtained a Research Engineer position from the "Centre National de la Recherche Scientifique" (CNRS) at the Laboratoire de Chimie et Physique Quantiques in Toulouse
 (France) to work on computational methods and high-performance computing for quantum chemistry. He was awarded the Crystal medal of the CNRS in 2019.
 
-### [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en)
-Postdoc, ERC (2024-2025)
-
-<img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
-
-### [Yann Damour](https://ydrnan.github.io/damour/)
-PhD Student, ERC (2021-2024)
-
-<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
-
 ### [Antoine Marie](https://antoine-marie.github.io)
 PhD Student, ERC (2022-2025)
-
 <img class="photo" src="/img/AMarie.png" alt="Antoine" />
 
 # Previous members
 
+### [Yann Damour](https://ydrnan.github.io/damour/)
+PhD Student, ERC (2021-2024)
+<img class="photo" src="/img/YDamour.jpg" alt="Yann" />
+
+### [Abdallah Ammar](https://scholar.google.com/citations?user=y437T5sAAAAJ&hl=en)
+Postdoc, ERC (2024-2025)
+<img class="photo" src="/img/AAmmar.jpg" alt="Abdallah" />
+
 ### [Fabris Kossoski](https://kossoski.github.io)
 Postdoc, ERC (2020-2024)
+<img class="photo" src="/img/FKossoski.jpg" alt="Fabris" />
 
 ### [Raul Quintero-Monsebaiz](http://orcid.org/0000-0002-4518-5497)
 Postdoc, ERC (2022-2023)
-
 <img class="photo" src="/img/RQuintero.jpg" alt="Raul" />
 
 ### [Sara Giarrusso](https://scholar.google.com/citations?user=Sf-pfv4AAAAJ&hl=en)
 Postdoc, ERC (2023)
-
 <img class="photo" src="/img/SGiarrusso.jpg" alt="Sara" />
 
 ### [Enzo Monino](https://enzomonino.github.io)
 PhD Student, ERC (2020-2023)
-
 <img class="photo" src="/img/EMonino.jpg" alt="Enzo" />
 
 # Collaborators
