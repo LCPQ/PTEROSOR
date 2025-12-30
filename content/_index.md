@@ -9,7 +9,9 @@ draft: false
 From left to right: Enzo Monino, Anthony Scemama, Yann Damour, Abdallah Ammar, Vijay Gopal Chilkuri, Fabris Kossoski, Pierre-Francois Loos, Raul Quintero-Monsebaiz, and Evgeny Posenitskiy.
 
 ## Recent News
-* **Sep 2025:** Antoine Marie has succesfully defended his PhD entitled *"Many-body perturbation theory in quantum chemistry."*. Congratulations Dr Marie!
+* **Dec 2025:** The PTEROSOR ERC grant is officially over. It was a blast!
+* **Nov 2025:** Antoine Marie's paper on [parquet theory for molecular systems](https://doi.org/10.1063/5.0301331) has been published in JCP and selected as an **Editor's Pick**.
+* **Sep 2025:** Antoine Marie has succesfully defended his PhD entitled [*"Many-body perturbation theory in quantum chemistry."*](https://theses.hal.science/tel-05381565/document). Congratulations Dr Marie!
 * **June 2025:** The [QUEST](https://github.com/pfloos/QUESTDB) repository is officially online and the corresponding [publication](https://arxiv.org/abs/2506.11590) submitted to JCTC!
 * **Apr 2025:** The [PTEROSOR end-of-term workshop](https://lcpq.github.io/PTEROSOR_endofterm_workshop) on excited-state methods in electronic structure was held in Toulouse in early April and gathered 50 researchers from many different countries!
 * **Feb 2025:** Antoine's paper on [anomalous propagators and the particle-particle channel: Bethe-Salpeter
